@@ -1,5 +1,11 @@
 [
   {
+    "acronym": "AIS",
+    "expansion": "Automated Information Support System",
+    "description": "A computerized system that uses hardware, software, and data to automate the collection, processing, storage, transmission, and display of information. AIS improves efficiency and accuracy in handling large volumes of data and supports decision-making across sectors like finance, healthcare, and government.",
+    "example": "An Automated Information Support System (AIS) integrates hardware, software, and data to streamline organizational information management."
+  },
+  {
     "acronym": "CEO",
     "expansion": "Chief Executive Officer",
     "description": "Top executive responsible for overall strategy and results.",
