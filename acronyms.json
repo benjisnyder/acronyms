@@ -1,0 +1,3002 @@
+[
+  {
+    "acronym": "CEO",
+    "expansion": "Chief Executive Officer",
+    "description": "Top executive responsible for overall strategy and results.",
+    "example": "Include CEO (Chief Executive Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CFO",
+    "expansion": "Chief Financial Officer",
+    "description": "Executive overseeing finance, accounting, and capital strategy.",
+    "example": "Review CFO (Chief Financial Officer) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "COO",
+    "expansion": "Chief Operating Officer",
+    "description": "Executive running day-to-day operations and execution.",
+    "example": "Include COO (Chief Operating Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CTO",
+    "expansion": "Chief Technology Officer",
+    "description": "Executive leading technology strategy and engineering.",
+    "example": "Include CTO (Chief Technology Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CIO",
+    "expansion": "Chief Information Officer",
+    "description": "Executive managing enterprise IT and information systems.",
+    "example": "Include CIO (Chief Information Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CPO",
+    "expansion": "Chief Product Officer",
+    "description": "Executive responsible for product vision and delivery.",
+    "example": "Include CPO (Chief Product Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CMO",
+    "expansion": "Chief Marketing Officer",
+    "description": "Executive leading marketing strategy and brand.",
+    "example": "Include CMO (Chief Marketing Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CHRO",
+    "expansion": "Chief Human Resources Officer",
+    "description": "Executive overseeing people strategy and HR.",
+    "example": "Include CHRO (Chief Human Resources Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CISO",
+    "expansion": "Chief Information Security Officer",
+    "description": "Executive accountable for cybersecurity risk.",
+    "example": "Include CISO (Chief Information Security Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CDO",
+    "expansion": "Chief Data Officer",
+    "description": "Executive responsible for data strategy and governance.",
+    "example": "Include CDO (Chief Data Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CDAO",
+    "expansion": "Chief Data & Analytics Officer",
+    "description": "Executive leading data and analytics outcomes.",
+    "example": "Include CDAO (Chief Data & Analytics Officer) in the executive briefing."
+  },
+  {
+    "acronym": "CLO",
+    "expansion": "Chief Legal Officer",
+    "description": "Top legal executive managing legal risk and compliance.",
+    "example": "Include CLO (Chief Legal Officer) in the executive briefing."
+  },
+  {
+    "acronym": "GC",
+    "expansion": "General Counsel",
+    "description": "Head of the legal function for the organization.",
+    "example": "Capture GC (General Counsel) in the contract guidelines."
+  },
+  {
+    "acronym": "VP",
+    "expansion": "Vice President",
+    "description": "Senior leader responsible for a major function or business unit.",
+    "example": "Include VP (Vice President) in the executive briefing."
+  },
+  {
+    "acronym": "SVP",
+    "expansion": "Senior Vice President",
+    "description": "Executive leader above VP, below C‑suite.",
+    "example": "Include SVP (Senior Vice President) in the executive briefing."
+  },
+  {
+    "acronym": "EVP",
+    "expansion": "Executive Vice President",
+    "description": "Senior-most non‑C‑suite executive role.",
+    "example": "Include EVP (Executive Vice President) in the executive briefing."
+  },
+  {
+    "acronym": "MD",
+    "expansion": "Managing Director",
+    "description": "Senior leader running a regional or line-of-business unit.",
+    "example": "Include MD (Managing Director) in the executive briefing."
+  },
+  {
+    "acronym": "HR",
+    "expansion": "Human Resources",
+    "description": "Organizational function managing people, policies, and benefits.",
+    "example": "Document HR (Human Resources) in the people ops playbook."
+  },
+  {
+    "acronym": "TA",
+    "expansion": "Talent Acquisition",
+    "description": "Recruiting function to source and hire candidates.",
+    "example": "Document TA (Talent Acquisition) in the people ops playbook."
+  },
+  {
+    "acronym": "L&D",
+    "expansion": "Learning and Development",
+    "description": "Training and professional growth programs.",
+    "example": "Prioritize L&D (Learning and Development) during the product roadmap review."
+  },
+  {
+    "acronym": "DEI",
+    "expansion": "Diversity, Equity, and Inclusion",
+    "description": "Initiatives for diverse, equitable workplaces.",
+    "example": "Document DEI (Diversity, Equity, and Inclusion) in the people ops playbook."
+  },
+  {
+    "acronym": "FTE",
+    "expansion": "Full‑Time Equivalent",
+    "description": "Standardized measure of staffing capacity (e.g., 1.0 = full time).",
+    "example": "Mention FTE (Full‑Time Equivalent) during the weekly planning session."
+  },
+  {
+    "acronym": "PTO",
+    "expansion": "Paid Time Off",
+    "description": "Bank of vacation and sick leave benefits.",
+    "example": "Document PTO (Paid Time Off) in the people ops playbook."
+  },
+  {
+    "acronym": "OKR",
+    "expansion": "Objectives and Key Results",
+    "description": "Goal‑setting framework focusing on outcomes.",
+    "example": "Frame OKR (Objectives and Key Results) in the annual strategy memo."
+  },
+  {
+    "acronym": "KPI",
+    "expansion": "Key Performance Indicator",
+    "description": "Measurable metric to track performance against goals.",
+    "example": "Add KPI (Key Performance Indicator) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "SLA",
+    "expansion": "Service Level Agreement",
+    "description": "Contractually defined service performance targets.",
+    "example": "Track SLA (Service Level Agreement) in the operations dashboard."
+  },
+  {
+    "acronym": "OLA",
+    "expansion": "Operational Level Agreement",
+    "description": "Internal commitments underpinning SLAs.",
+    "example": "Track OLA (Operational Level Agreement) in the operations dashboard."
+  },
+  {
+    "acronym": "RACI",
+    "expansion": "Responsible, Accountable, Consulted, Informed",
+    "description": "Roles matrix for decisions/tasks.",
+    "example": "Mention RACI (Responsible, Accountable, Consulted, Informed) during the weekly planning session."
+  },
+  {
+    "acronym": "DACI",
+    "expansion": "Driver, Approver, Contributor, Informed",
+    "description": "Decision‑making responsibility model.",
+    "example": "Add DACI (Driver, Approver, Contributor, Informed) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MOE",
+    "expansion": "Measure of Effectiveness",
+    "description": "Metric to evaluate if objectives are being met.",
+    "example": "Add MOE (Measure of Effectiveness) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MOP",
+    "expansion": "Measure of Performance",
+    "description": "Metric tracking how work is performed.",
+    "example": "Add MOP (Measure of Performance) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "TAM",
+    "expansion": "Total Addressable Market",
+    "description": "Total demand for a product if fully captured.",
+    "example": "Prioritize TAM (Total Addressable Market) during the product roadmap review."
+  },
+  {
+    "acronym": "SAM",
+    "expansion": "Serviceable Available Market",
+    "description": "Portion of TAM aligned to your product’s scope.",
+    "example": "Prioritize SAM (Serviceable Available Market) during the product roadmap review."
+  },
+  {
+    "acronym": "SOM",
+    "expansion": "Serviceable Obtainable Market",
+    "description": "Realistic share of SAM you can capture.",
+    "example": "Mention SOM (Serviceable Obtainable Market) during the weekly planning session."
+  },
+  {
+    "acronym": "ICP",
+    "expansion": "Ideal Customer Profile",
+    "description": "Description of target customers who get most value.",
+    "example": "Discuss ICP (Ideal Customer Profile) during the customer success sync."
+  },
+  {
+    "acronym": "SWOT",
+    "expansion": "Strengths, Weaknesses, Opportunities, Threats",
+    "description": "Strategic analysis framework.",
+    "example": "Add SWOT (Strengths, Weaknesses, Opportunities, Threats) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "PESTLE",
+    "expansion": "Political, Economic, Social, Technological, Legal, Environmental",
+    "description": "Macro analysis.",
+    "example": "Add PESTLE (Political, Economic, Social, Technological, Legal, Environmental) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MoM",
+    "expansion": "Month‑over‑Month",
+    "description": "Period‑over‑period growth comparison by month.",
+    "example": "Mention MoM (Month‑over‑Month) during the weekly planning session."
+  },
+  {
+    "acronym": "QoQ",
+    "expansion": "Quarter‑over‑Quarter",
+    "description": "Growth comparison by quarter.",
+    "example": "Mention QoQ (Quarter‑over‑Quarter) during the weekly planning session."
+  },
+  {
+    "acronym": "YoY",
+    "expansion": "Year‑over‑Year",
+    "description": "Growth comparison by year.",
+    "example": "Mention YoY (Year‑over‑Year) during the weekly planning session."
+  },
+  {
+    "acronym": "ARR",
+    "expansion": "Annual Recurring Revenue",
+    "description": "Contracted recurring revenue normalized to a year.",
+    "example": "Review ARR (Annual Recurring Revenue) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "MRR",
+    "expansion": "Monthly Recurring Revenue",
+    "description": "Contracted recurring revenue per month.",
+    "example": "Review MRR (Monthly Recurring Revenue) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "NRR",
+    "expansion": "Net Revenue Retention",
+    "description": "Revenue retained including expansions minus churn.",
+    "example": "Review NRR (Net Revenue Retention) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "GRR",
+    "expansion": "Gross Revenue Retention",
+    "description": "Revenue retained excluding expansions.",
+    "example": "Review GRR (Gross Revenue Retention) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "ACV",
+    "expansion": "Annual Contract Value",
+    "description": "Revenue value of a single annualized contract.",
+    "example": "Review ACV (Annual Contract Value) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "TCV",
+    "expansion": "Total Contract Value",
+    "description": "Total revenue over the full term of a contract.",
+    "example": "Review TCV (Total Contract Value) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "ARPU",
+    "expansion": "Average Revenue Per User",
+    "description": "Revenue per account or user in a period.",
+    "example": "Review ARPU (Average Revenue Per User) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "ARPA",
+    "expansion": "Average Revenue Per Account",
+    "description": "Revenue per account in a period.",
+    "example": "Review ARPA (Average Revenue Per Account) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "LTV",
+    "expansion": "Customer Lifetime Value",
+    "description": "Total gross profit expected over a customer’s lifetime.",
+    "example": "Review LTV (Customer Lifetime Value) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "CAC",
+    "expansion": "Customer Acquisition Cost",
+    "description": "Total cost to acquire a new customer.",
+    "example": "Review CAC (Customer Acquisition Cost) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "LTV:CAC",
+    "expansion": "Lifetime Value to CAC",
+    "description": "Efficiency ratio comparing value vs. acquisition cost.",
+    "example": "Review LTV:CAC (Lifetime Value to CAC) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "GM",
+    "expansion": "Gross Margin",
+    "description": "Revenue minus cost of goods, as a percentage of revenue.",
+    "example": "Review GM (Gross Margin) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "OM",
+    "expansion": "Operating Margin",
+    "description": "Operating income as a percentage of revenue.",
+    "example": "Review OM (Operating Margin) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "EBIT",
+    "expansion": "Earnings Before Interest and Taxes",
+    "description": "Operating profit metric.",
+    "example": "Review EBIT (Earnings Before Interest and Taxes) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "EBITDA",
+    "expansion": "Earnings Before Interest, Taxes, Depreciation, Amortization",
+    "description": "Cash‑flow proxy.",
+    "example": "Review EBITDA (Earnings Before Interest, Taxes, Depreciation, Amortization) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "FCF",
+    "expansion": "Free Cash Flow",
+    "description": "Cash generated after capital expenditures.",
+    "example": "Review FCF (Free Cash Flow) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "DCF",
+    "expansion": "Discounted Cash Flow",
+    "description": "Valuation method based on discounted future cash flows.",
+    "example": "Review DCF (Discounted Cash Flow) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "WACC",
+    "expansion": "Weighted Average Cost of Capital",
+    "description": "Blended cost of equity and debt financing.",
+    "example": "Review WACC (Weighted Average Cost of Capital) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "IRR",
+    "expansion": "Internal Rate of Return",
+    "description": "Discount rate that sets NPV to zero.",
+    "example": "Mention IRR (Internal Rate of Return) during the weekly planning session."
+  },
+  {
+    "acronym": "NPV",
+    "expansion": "Net Present Value",
+    "description": "Present value of cash flows minus initial investment.",
+    "example": "Review NPV (Net Present Value) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "COGS",
+    "expansion": "Cost of Goods Sold",
+    "description": "Direct costs to produce delivered goods/services.",
+    "example": "Review COGS (Cost of Goods Sold) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "OpEx",
+    "expansion": "Operating Expenses",
+    "description": "Ongoing costs for running the business (SG&A, R&D).",
+    "example": "Track OpEx (Operating Expenses) in the operations dashboard."
+  },
+  {
+    "acronym": "CapEx",
+    "expansion": "Capital Expenditures",
+    "description": "Investments in long‑lived assets (e.g., equipment).",
+    "example": "Review CapEx (Capital Expenditures) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "SG&A",
+    "expansion": "Selling, General & Administrative",
+    "description": "Non‑production operating expenses.",
+    "example": "Track SG&A (Selling, General & Administrative) in the operations dashboard."
+  },
+  {
+    "acronym": "R&D",
+    "expansion": "Research and Development",
+    "description": "Spending to create new products/technology.",
+    "example": "Prioritize R&D (Research and Development) during the product roadmap review."
+  },
+  {
+    "acronym": "GAAP",
+    "expansion": "Generally Accepted Accounting Principles",
+    "description": "U.S. accounting standards.",
+    "example": "Reconcile GAAP (Generally Accepted Accounting Principles) in the close checklist."
+  },
+  {
+    "acronym": "IFRS",
+    "expansion": "International Financial Reporting Standards",
+    "description": "Global accounting framework.",
+    "example": "Review IFRS (International Financial Reporting Standards) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "IPO",
+    "expansion": "Initial Public Offering",
+    "description": "First sale of stock to the public.",
+    "example": "Mention IPO (Initial Public Offering) during the weekly planning session."
+  },
+  {
+    "acronym": "SPAC",
+    "expansion": "Special Purpose Acquisition Company",
+    "description": "Shell to take a firm public via merger.",
+    "example": "Mention SPAC (Special Purpose Acquisition Company) during the weekly planning session."
+  },
+  {
+    "acronym": "M&A",
+    "expansion": "Mergers and Acquisitions",
+    "description": "Corporate consolidation or purchase activities.",
+    "example": "Mention M&A (Mergers and Acquisitions) during the weekly planning session."
+  },
+  {
+    "acronym": "LBO",
+    "expansion": "Leveraged Buyout",
+    "description": "Acquisition primarily financed with debt.",
+    "example": "Mention LBO (Leveraged Buyout) during the weekly planning session."
+  },
+  {
+    "acronym": "KAM",
+    "expansion": "Key Account Management",
+    "description": "Managing strategic, high‑value customers.",
+    "example": "Include KAM (Key Account Management) in the executive briefing."
+  },
+  {
+    "acronym": "BOM",
+    "expansion": "Bill of Materials",
+    "description": "List of components needed to build a product.",
+    "example": "Prioritize BOM (Bill of Materials) during the product roadmap review."
+  },
+  {
+    "acronym": "S&OP",
+    "expansion": "Sales and Operations Planning",
+    "description": "Integrated demand/supply planning process.",
+    "example": "Track S&OP (Sales and Operations Planning) in the operations dashboard."
+  },
+  {
+    "acronym": "COO (ops)",
+    "expansion": "Country of Origin",
+    "description": "Location where a product was manufactured.",
+    "example": "Prioritize COO (ops) (Country of Origin) during the product roadmap review."
+  },
+  {
+    "acronym": "ABM",
+    "expansion": "Account‑Based Marketing",
+    "description": "Targeted marketing to specific high‑value accounts.",
+    "example": "Highlight ABM (Account‑Based Marketing) in the campaign brief."
+  },
+  {
+    "acronym": "B2B",
+    "expansion": "Business‑to‑Business",
+    "description": "Selling to other businesses.",
+    "example": "Mention B2B (Business‑to‑Business) during the weekly planning session."
+  },
+  {
+    "acronym": "B2C",
+    "expansion": "Business‑to‑Consumer",
+    "description": "Selling directly to consumers.",
+    "example": "Mention B2C (Business‑to‑Consumer) during the weekly planning session."
+  },
+  {
+    "acronym": "B2B2C",
+    "expansion": "Business‑to‑Business‑to‑Consumer",
+    "description": "Selling through business intermediaries to consumers.",
+    "example": "Mention B2B2C (Business‑to‑Business‑to‑Consumer) during the weekly planning session."
+  },
+  {
+    "acronym": "PLG",
+    "expansion": "Product‑Led Growth",
+    "description": "Product usage drives acquisition, expansion, and retention.",
+    "example": "Prioritize PLG (Product‑Led Growth) during the product roadmap review."
+  },
+  {
+    "acronym": "SLG",
+    "expansion": "Sales‑Led Growth",
+    "description": "Direct sales drives acquisition and expansion.",
+    "example": "Coach the team on SLG (Sales‑Led Growth) during pipeline reviews."
+  },
+  {
+    "acronym": "MLG",
+    "expansion": "Marketing‑Led Growth",
+    "description": "Marketing drives demand generation and pipeline.",
+    "example": "Highlight MLG (Marketing‑Led Growth) in the campaign brief."
+  },
+  {
+    "acronym": "CS",
+    "expansion": "Customer Success",
+    "description": "Function driving adoption, value, and retention.",
+    "example": "Discuss CS (Customer Success) during the customer success sync."
+  },
+  {
+    "acronym": "CSM",
+    "expansion": "Customer Success Manager",
+    "description": "Role focused on customer outcomes and renewals.",
+    "example": "Discuss CSM (Customer Success Manager) during the customer success sync."
+  },
+  {
+    "acronym": "NPS",
+    "expansion": "Net Promoter Score",
+    "description": "Loyalty measure based on likelihood to recommend.",
+    "example": "Mention NPS (Net Promoter Score) during the weekly planning session."
+  },
+  {
+    "acronym": "CSAT",
+    "expansion": "Customer Satisfaction",
+    "description": "Rating of satisfaction with a product or service.",
+    "example": "Track CSAT (Customer Satisfaction) in the operations dashboard."
+  },
+  {
+    "acronym": "CES",
+    "expansion": "Customer Effort Score",
+    "description": "Ease of accomplishing a task with support/product.",
+    "example": "Track CES (Customer Effort Score) in the operations dashboard."
+  },
+  {
+    "acronym": "A/B",
+    "expansion": "A/B Testing",
+    "description": "Controlled experiment comparing two variants.",
+    "example": "Mention A/B (A/B Testing) during the weekly planning session."
+  },
+  {
+    "acronym": "CRO",
+    "expansion": "Conversion Rate Optimization",
+    "description": "Improving conversion through experimentation.",
+    "example": "Mention CRO (Conversion Rate Optimization) during the weekly planning session."
+  },
+  {
+    "acronym": "CTR",
+    "expansion": "Click‑Through Rate",
+    "description": "Clicks divided by impressions.",
+    "example": "Mention CTR (Click‑Through Rate) during the weekly planning session."
+  },
+  {
+    "acronym": "CPA",
+    "expansion": "Cost Per Acquisition",
+    "description": "Advertising cost per converted customer.",
+    "example": "Review CPA (Cost Per Acquisition) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "CPC",
+    "expansion": "Cost Per Click",
+    "description": "Advertising cost per click.",
+    "example": "Review CPC (Cost Per Click) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "CPM",
+    "expansion": "Cost Per Mille",
+    "description": "Cost per thousand ad impressions.",
+    "example": "Review CPM (Cost Per Mille) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "ROAS",
+    "expansion": "Return On Ad Spend",
+    "description": "Revenue generated per dollar of ad spend.",
+    "example": "Review ROAS (Return On Ad Spend) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "SEO",
+    "expansion": "Search Engine Optimization",
+    "description": "Improving organic search visibility.",
+    "example": "Mention SEO (Search Engine Optimization) during the weekly planning session."
+  },
+  {
+    "acronym": "SEM",
+    "expansion": "Search Engine Marketing",
+    "description": "Paid search advertising channels.",
+    "example": "Highlight SEM (Search Engine Marketing) in the campaign brief."
+  },
+  {
+    "acronym": "SOV",
+    "expansion": "Share of Voice",
+    "description": "Brand presence relative to competitors.",
+    "example": "Highlight SOV (Share of Voice) in the campaign brief."
+  },
+  {
+    "acronym": "PR",
+    "expansion": "Public Relations",
+    "description": "Managing media and stakeholder communications.",
+    "example": "Highlight PR (Public Relations) in the campaign brief."
+  },
+  {
+    "acronym": "UGC",
+    "expansion": "User‑Generated Content",
+    "description": "Content created by users rather than the brand.",
+    "example": "Highlight UGC (User‑Generated Content) in the campaign brief."
+  },
+  {
+    "acronym": "KAM (sales)",
+    "expansion": "Key Account Manager",
+    "description": "Salesperson managing strategic accounts.",
+    "example": "Frame KAM (sales) (Key Account Manager) in the annual strategy memo."
+  },
+  {
+    "acronym": "SDR",
+    "expansion": "Sales Development Representative",
+    "description": "Qualifies leads for sales.",
+    "example": "Prioritize SDR (Sales Development Representative) during the product roadmap review."
+  },
+  {
+    "acronym": "BDR",
+    "expansion": "Business Development Representative",
+    "description": "Generates pipeline and partnerships.",
+    "example": "Prioritize BDR (Business Development Representative) during the product roadmap review."
+  },
+  {
+    "acronym": "AE",
+    "expansion": "Account Executive",
+    "description": "Salesperson closing new business.",
+    "example": "Include AE (Account Executive) in the executive briefing."
+  },
+  {
+    "acronym": "AM",
+    "expansion": "Account Manager",
+    "description": "Manages existing customer relationships and renewals.",
+    "example": "Discuss AM (Account Manager) during the customer success sync."
+  },
+  {
+    "acronym": "QBR",
+    "expansion": "Quarterly Business Review",
+    "description": "Periodic strategic review with a customer.",
+    "example": "Frame QBR (Quarterly Business Review) in the annual strategy memo."
+  },
+  {
+    "acronym": "RFP",
+    "expansion": "Request for Proposal",
+    "description": "Formal solicitation for vendor proposals.",
+    "example": "Log RFP (Request for Proposal) in the procurement tracker."
+  },
+  {
+    "acronym": "RFQ",
+    "expansion": "Request for Quotation",
+    "description": "Request for price and terms from vendors.",
+    "example": "Mention RFQ (Request for Quotation) during the weekly planning session."
+  },
+  {
+    "acronym": "RFI",
+    "expansion": "Request for Information",
+    "description": "Preliminary inquiry for vendor capabilities.",
+    "example": "Log RFI (Request for Information) in the procurement tracker."
+  },
+  {
+    "acronym": "SOW",
+    "expansion": "Statement of Work",
+    "description": "Detailed scope, deliverables, and terms for services.",
+    "example": "Mention SOW (Statement of Work) during the weekly planning session."
+  },
+  {
+    "acronym": "MSA",
+    "expansion": "Master Services Agreement",
+    "description": "Umbrella legal terms governing engagements.",
+    "example": "Capture MSA (Master Services Agreement) in the contract guidelines."
+  },
+  {
+    "acronym": "BANT",
+    "expansion": "Budget, Authority, Need, Timeline",
+    "description": "Framework to qualify opportunities.",
+    "example": "Review BANT (Budget, Authority, Need, Timeline) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "MEDDIC",
+    "expansion": "Metrics, Economic buyer, Decision criteria, Decision process, Identify pain, Champion",
+    "description": "Sales qualification.",
+    "example": "Track MEDDIC (Metrics, Economic buyer, Decision criteria, Decision process, Identify pain, Champion) in the operations dashboard."
+  },
+  {
+    "acronym": "SPIN",
+    "expansion": "Situation, Problem, Implication, Need‑Payoff",
+    "description": "Consultative sales questioning model.",
+    "example": "Coach the team on SPIN (Situation, Problem, Implication, Need‑Payoff) during pipeline reviews."
+  },
+  {
+    "acronym": "ICP (mkt)",
+    "expansion": "Ideal Customer Profile",
+    "description": "Target firmographics/needs for marketing.",
+    "example": "Highlight ICP (mkt) (Ideal Customer Profile) in the campaign brief."
+  },
+  {
+    "acronym": "PMF",
+    "expansion": "Product‑Market Fit",
+    "description": "Degree product satisfies a strong market demand.",
+    "example": "Prioritize PMF (Product‑Market Fit) during the product roadmap review."
+  },
+  {
+    "acronym": "MVP",
+    "expansion": "Minimum Viable Product",
+    "description": "Minimal version to test core value early.",
+    "example": "Prioritize MVP (Minimum Viable Product) during the product roadmap review."
+  },
+  {
+    "acronym": "PRD",
+    "expansion": "Product Requirements Document",
+    "description": "Artifact defining problems, users, and needs.",
+    "example": "Prioritize PRD (Product Requirements Document) during the product roadmap review."
+  },
+  {
+    "acronym": "BRD",
+    "expansion": "Business Requirements Document",
+    "description": "Business goals, constraints, and scope.",
+    "example": "Mention BRD (Business Requirements Document) during the weekly planning session."
+  },
+  {
+    "acronym": "FRD",
+    "expansion": "Functional Requirements Document",
+    "description": "Functional behavior and capabilities.",
+    "example": "Mention FRD (Functional Requirements Document) during the weekly planning session."
+  },
+  {
+    "acronym": "NFR",
+    "expansion": "Non‑Functional Requirement",
+    "description": "Performance, reliability, security constraints.",
+    "example": "Assess NFR (Non‑Functional Requirement) in the security audit checklist."
+  },
+  {
+    "acronym": "JTBD",
+    "expansion": "Jobs‑to‑Be‑Done",
+    "description": "Framework focusing on the job users hire products to do.",
+    "example": "Mention JTBD (Jobs‑to‑Be‑Done) during the weekly planning session."
+  },
+  {
+    "acronym": "LCAP",
+    "expansion": "Low‑Code Application Platform",
+    "description": "Platform to build apps with minimal code.",
+    "example": "Reference LCAP (Low‑Code Application Platform) in the architecture diagram."
+  },
+  {
+    "acronym": "UX",
+    "expansion": "User Experience",
+    "description": "Overall experience users have with a product.",
+    "example": "Prioritize UX (User Experience) during the product roadmap review."
+  },
+  {
+    "acronym": "UI",
+    "expansion": "User Interface",
+    "description": "Visual and interactive elements users engage with.",
+    "example": "Mention UI (User Interface) during the weekly planning session."
+  },
+  {
+    "acronym": "IA",
+    "expansion": "Information Architecture",
+    "description": "Structure and labeling of content for findability.",
+    "example": "Highlight IA (Information Architecture) in the campaign brief."
+  },
+  {
+    "acronym": "UAT",
+    "expansion": "User Acceptance Testing",
+    "description": "End‑user validation before release.",
+    "example": "Prioritize UAT (User Acceptance Testing) during the product roadmap review."
+  },
+  {
+    "acronym": "SUS",
+    "expansion": "System Usability Scale",
+    "description": "Standardized usability questionnaire score.",
+    "example": "Reference SUS (System Usability Scale) in the architecture diagram."
+  },
+  {
+    "acronym": "HE",
+    "expansion": "Heuristic Evaluation",
+    "description": "Expert review using usability heuristics.",
+    "example": "Mention HE (Heuristic Evaluation) during the weekly planning session."
+  },
+  {
+    "acronym": "A11y",
+    "expansion": "Accessibility",
+    "description": "Ensuring products are usable by people with disabilities.",
+    "example": "Document A11y (Accessibility) in the people ops playbook."
+  },
+  {
+    "acronym": "TTV",
+    "expansion": "Time to Value",
+    "description": "Time for users to realize meaningful product value.",
+    "example": "Prioritize TTV (Time to Value) during the product roadmap review."
+  },
+  {
+    "acronym": "TTM",
+    "expansion": "Time to Market",
+    "description": "Elapsed time from idea to customer availability.",
+    "example": "Discuss TTM (Time to Market) during the customer success sync."
+  },
+  {
+    "acronym": "GTM",
+    "expansion": "Go‑To‑Market",
+    "description": "Strategy to reach, sell, and support customers.",
+    "example": "Track GTM (Go‑To‑Market) in the operations dashboard."
+  },
+  {
+    "acronym": "GA",
+    "expansion": "General Availability",
+    "description": "Broad release ready for production use.",
+    "example": "Prioritize GA (General Availability) during the product roadmap review."
+  },
+  {
+    "acronym": "EA",
+    "expansion": "Early Access",
+    "description": "Limited release for early adopters/feedback.",
+    "example": "Prioritize EA (Early Access) during the product roadmap review."
+  },
+  {
+    "acronym": "Beta",
+    "expansion": "Beta Release",
+    "description": "Pre‑GA release for testing in near‑final state.",
+    "example": "Prioritize Beta (Beta Release) during the product roadmap review."
+  },
+  {
+    "acronym": "RC",
+    "expansion": "Release Candidate",
+    "description": "Build that could be final unless major issues are found.",
+    "example": "Prioritize RC (Release Candidate) during the product roadmap review."
+  },
+  {
+    "acronym": "PO",
+    "expansion": "Product Owner",
+    "description": "Accountable for maximizing product value and backlog.",
+    "example": "Prioritize PO (Product Owner) during the product roadmap review."
+  },
+  {
+    "acronym": "SM",
+    "expansion": "Scrum Master",
+    "description": "Facilitator who removes impediments and supports Scrum.",
+    "example": "Mention SM (Scrum Master) during the weekly planning session."
+  },
+  {
+    "acronym": "PI",
+    "expansion": "Program Increment",
+    "description": "SAFe timebox aligning multiple teams on objectives.",
+    "example": "Mention PI (Program Increment) during the weekly planning session."
+  },
+  {
+    "acronym": "SAFe",
+    "expansion": "Scaled Agile Framework",
+    "description": "Practices to scale agile across enterprises.",
+    "example": "Mention SAFe (Scaled Agile Framework) during the weekly planning session."
+  },
+  {
+    "acronym": "LeSS",
+    "expansion": "Large‑Scale Scrum",
+    "description": "Scaling framework extending Scrum to many teams.",
+    "example": "Mention LeSS (Large‑Scale Scrum) during the weekly planning session."
+  },
+  {
+    "acronym": "XP",
+    "expansion": "Extreme Programming",
+    "description": "Engineering practices for high‑quality agile delivery.",
+    "example": "Track XP (Extreme Programming) in the operations dashboard."
+  },
+  {
+    "acronym": "Kanban",
+    "expansion": "Flow‑based method visualizing work and limiting WIP to improve throughput",
+    "description": "Flow‑based method visualizing work and limiting WIP to improve throughput.",
+    "example": "Mention Kanban (Flow‑based method visualizing work and limiting WIP to improve throughput) during the weekly planning session."
+  },
+  {
+    "acronym": "WIP",
+    "expansion": "Work In Progress",
+    "description": "Items currently being worked on.",
+    "example": "Mention WIP (Work In Progress) during the weekly planning session."
+  },
+  {
+    "acronym": "DoD",
+    "expansion": "Definition of Done",
+    "description": "Agreed criteria for considering work complete.",
+    "example": "Mention DoD (Definition of Done) during the weekly planning session."
+  },
+  {
+    "acronym": "DoR",
+    "expansion": "Definition of Ready",
+    "description": "Criteria for pulling work into active development.",
+    "example": "Prioritize DoR (Definition of Ready) during the product roadmap review."
+  },
+  {
+    "acronym": "PMO",
+    "expansion": "Project Management Office",
+    "description": "Function overseeing project standards and portfolio.",
+    "example": "Include PMO (Project Management Office) in the executive briefing."
+  },
+  {
+    "acronym": "PERT",
+    "expansion": "Program Evaluation and Review Technique",
+    "description": "Project duration estimation method.",
+    "example": "Mention PERT (Program Evaluation and Review Technique) during the weekly planning session."
+  },
+  {
+    "acronym": "CPM",
+    "expansion": "Critical Path Method",
+    "description": "Identifies longest path driving project duration.",
+    "example": "Mention CPM (Critical Path Method) during the weekly planning session."
+  },
+  {
+    "acronym": "EVM",
+    "expansion": "Earned Value Management",
+    "description": "Integrates scope, schedule, cost for performance.",
+    "example": "Review EVM (Earned Value Management) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "SDLC",
+    "expansion": "Software Development Life Cycle",
+    "description": "Phases to plan, build, test, and deploy software.",
+    "example": "Prioritize SDLC (Software Development Life Cycle) during the product roadmap review."
+  },
+  {
+    "acronym": "API",
+    "expansion": "Application Programming Interface",
+    "description": "Defined interface for programmatic access.",
+    "example": "Reference API (Application Programming Interface) in the architecture diagram."
+  },
+  {
+    "acronym": "SDK",
+    "expansion": "Software Development Kit",
+    "description": "Tools and libraries to build on a platform.",
+    "example": "Prioritize SDK (Software Development Kit) during the product roadmap review."
+  },
+  {
+    "acronym": "CLI",
+    "expansion": "Command‑Line Interface",
+    "description": "Text‑based interface for interacting with software.",
+    "example": "Reference CLI (Command‑Line Interface) in the architecture diagram."
+  },
+  {
+    "acronym": "GUI",
+    "expansion": "Graphical User Interface",
+    "description": "Visual interface with windows, icons, and controls.",
+    "example": "Assess GUI (Graphical User Interface) in the security audit checklist."
+  },
+  {
+    "acronym": "IDE",
+    "expansion": "Integrated Development Environment",
+    "description": "Coding editor with build/debug tools.",
+    "example": "Prioritize IDE (Integrated Development Environment) during the product roadmap review."
+  },
+  {
+    "acronym": "VCS",
+    "expansion": "Version Control System",
+    "description": "Tracks source code changes (e.g., Git).",
+    "example": "Reference VCS (Version Control System) in the architecture diagram."
+  },
+  {
+    "acronym": "DVCS",
+    "expansion": "Distributed Version Control System",
+    "description": "Decentralized VCS (e.g., Git).",
+    "example": "Reference DVCS (Distributed Version Control System) in the architecture diagram."
+  },
+  {
+    "acronym": "CI",
+    "expansion": "Continuous Integration",
+    "description": "Automatically build/test code on each change.",
+    "example": "Reference CI (Continuous Integration) in the architecture diagram."
+  },
+  {
+    "acronym": "CD",
+    "expansion": "Continuous Delivery/Deployment",
+    "description": "Automated release of software to environments.",
+    "example": "Track CD (Continuous Delivery/Deployment) in the operations dashboard."
+  },
+  {
+    "acronym": "IaC",
+    "expansion": "Infrastructure as Code",
+    "description": "Managing infrastructure via code and automation.",
+    "example": "Reference IaC (Infrastructure as Code) in the architecture diagram."
+  },
+  {
+    "acronym": "SRE",
+    "expansion": "Site Reliability Engineering",
+    "description": "Applying software engineering to operations reliability.",
+    "example": "Track SRE (Site Reliability Engineering) in the operations dashboard."
+  },
+  {
+    "acronym": "MTTR",
+    "expansion": "Mean Time to Recovery",
+    "description": "Average time to restore service after failure.",
+    "example": "Track MTTR (Mean Time to Recovery) in the operations dashboard."
+  },
+  {
+    "acronym": "MTBF",
+    "expansion": "Mean Time Between Failures",
+    "description": "Average time between incidents.",
+    "example": "Mention MTBF (Mean Time Between Failures) during the weekly planning session."
+  },
+  {
+    "acronym": "RTO",
+    "expansion": "Recovery Time Objective",
+    "description": "Target time to restore service after disruption.",
+    "example": "Track RTO (Recovery Time Objective) in the operations dashboard."
+  },
+  {
+    "acronym": "RPO",
+    "expansion": "Recovery Point Objective",
+    "description": "Acceptable data loss measured in time.",
+    "example": "Add RPO (Recovery Point Objective) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "HA",
+    "expansion": "High Availability",
+    "description": "Design ensuring minimal downtime via redundancy.",
+    "example": "Prioritize HA (High Availability) during the product roadmap review."
+  },
+  {
+    "acronym": "HADR",
+    "expansion": "High Availability and Disaster Recovery",
+    "description": "Resilience across failures/disasters.",
+    "example": "Mention HADR (High Availability and Disaster Recovery) during the weekly planning session."
+  },
+  {
+    "acronym": "DR",
+    "expansion": "Disaster Recovery",
+    "description": "Processes to restore critical services after major failures.",
+    "example": "Mention DR (Disaster Recovery) during the weekly planning session."
+  },
+  {
+    "acronym": "CAP",
+    "expansion": "Consistency, Availability, Partition tolerance",
+    "description": "Tradeoff theorem in distributed systems.",
+    "example": "Mention CAP (Consistency, Availability, Partition tolerance) during the weekly planning session."
+  },
+  {
+    "acronym": "ACID",
+    "expansion": "Atomicity, Consistency, Isolation, Durability",
+    "description": "Properties for reliable transactions.",
+    "example": "Mention ACID (Atomicity, Consistency, Isolation, Durability) during the weekly planning session."
+  },
+  {
+    "acronym": "BASE",
+    "expansion": "Basically Available, Soft state, Eventual consistency",
+    "description": "Alternate consistency model.",
+    "example": "Add BASE (Basically Available, Soft state, Eventual consistency) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "REST",
+    "expansion": "Representational State Transfer",
+    "description": "Stateless API style using HTTP semantics.",
+    "example": "Reference REST (Representational State Transfer) in the architecture diagram."
+  },
+  {
+    "acronym": "gRPC",
+    "expansion": "High‑performance RPC framework using HTTP/2 and Protocol Buffers",
+    "description": "High‑performance RPC framework using HTTP/2 and Protocol Buffers.",
+    "example": "Mention gRPC (High‑performance RPC framework using HTTP/2 and Protocol Buffers) during the weekly planning session."
+  },
+  {
+    "acronym": "CRUD",
+    "expansion": "Create, Read, Update, Delete",
+    "description": "Basic persistent storage operations.",
+    "example": "Track CRUD (Create, Read, Update, Delete) in the operations dashboard."
+  },
+  {
+    "acronym": "ORM",
+    "expansion": "Object‑Relational Mapping",
+    "description": "Mapping objects to relational database tables.",
+    "example": "Mention ORM (Object‑Relational Mapping) during the weekly planning session."
+  },
+  {
+    "acronym": "DBMS",
+    "expansion": "Database Management System",
+    "description": "Software to create, query, and manage databases.",
+    "example": "Include DBMS (Database Management System) in the executive briefing."
+  },
+  {
+    "acronym": "RDBMS",
+    "expansion": "Relational Database Management System",
+    "description": "Table‑based database (SQL).",
+    "example": "Include RDBMS (Relational Database Management System) in the executive briefing."
+  },
+  {
+    "acronym": "NoSQL",
+    "expansion": "Non‑relational databases",
+    "description": "Key‑value, document, column, or graph stores.",
+    "example": "Mention NoSQL (Non‑relational databases) during the weekly planning session."
+  },
+  {
+    "acronym": "OLTP",
+    "expansion": "Online Transaction Processing",
+    "description": "High‑volume transactional workloads.",
+    "example": "Mention OLTP (Online Transaction Processing) during the weekly planning session."
+  },
+  {
+    "acronym": "OLAP",
+    "expansion": "Online Analytical Processing",
+    "description": "Analytical querying across aggregated data.",
+    "example": "Add OLAP (Online Analytical Processing) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "ETL",
+    "expansion": "Extract, Transform, Load",
+    "description": "Pipeline moving and transforming data into a target.",
+    "example": "Coach the team on ETL (Extract, Transform, Load) during pipeline reviews."
+  },
+  {
+    "acronym": "ELT",
+    "expansion": "Extract, Load, Transform",
+    "description": "Load first then transform in the target system.",
+    "example": "Reference ELT (Extract, Load, Transform) in the architecture diagram."
+  },
+  {
+    "acronym": "CDC",
+    "expansion": "Change Data Capture",
+    "description": "Track and propagate data changes incrementally.",
+    "example": "Add CDC (Change Data Capture) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MQ",
+    "expansion": "Message Queue",
+    "description": "Buffered asynchronous communication between services.",
+    "example": "Mention MQ (Message Queue) during the weekly planning session."
+  },
+  {
+    "acronym": "ESB",
+    "expansion": "Enterprise Service Bus",
+    "description": "Integration middleware across enterprise systems.",
+    "example": "Track ESB (Enterprise Service Bus) in the operations dashboard."
+  },
+  {
+    "acronym": "SOA",
+    "expansion": "Service‑Oriented Architecture",
+    "description": "Compose applications from networked services.",
+    "example": "Track SOA (Service‑Oriented Architecture) in the operations dashboard."
+  },
+  {
+    "acronym": "BFF",
+    "expansion": "Backend‑for‑Frontend",
+    "description": "Tailored backend layer for specific UI needs.",
+    "example": "Mention BFF (Backend‑for‑Frontend) during the weekly planning session."
+  },
+  {
+    "acronym": "CQRS",
+    "expansion": "Command Query Responsibility Segregation",
+    "description": "Separate write/read models.",
+    "example": "Mention CQRS (Command Query Responsibility Segregation) during the weekly planning session."
+  },
+  {
+    "acronym": "DDD",
+    "expansion": "Domain‑Driven Design",
+    "description": "Design guided by business domain and ubiquitous language.",
+    "example": "Prioritize DDD (Domain‑Driven Design) during the product roadmap review."
+  },
+  {
+    "acronym": "TDD",
+    "expansion": "Test‑Driven Development",
+    "description": "Write tests before code to guide design.",
+    "example": "Prioritize TDD (Test‑Driven Development) during the product roadmap review."
+  },
+  {
+    "acronym": "BDD",
+    "expansion": "Behavior‑Driven Development",
+    "description": "Specify behavior in human‑readable tests.",
+    "example": "Prioritize BDD (Behavior‑Driven Development) during the product roadmap review."
+  },
+  {
+    "acronym": "12FA",
+    "expansion": "Twelve‑Factor App",
+    "description": "Best practices for SaaS app development and operations.",
+    "example": "Track 12FA (Twelve‑Factor App) in the operations dashboard."
+  },
+  {
+    "acronym": "NFRs",
+    "expansion": "Non‑Functional Requirements",
+    "description": "Quality attributes like security and performance.",
+    "example": "Assess NFRs (Non‑Functional Requirements) in the security audit checklist."
+  },
+  {
+    "acronym": "IaaS",
+    "expansion": "Infrastructure as a Service",
+    "description": "On‑demand virtualized compute, storage, network.",
+    "example": "Track IaaS (Infrastructure as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "PaaS",
+    "expansion": "Platform as a Service",
+    "description": "Managed app platform abstracting infrastructure.",
+    "example": "Track PaaS (Platform as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "SaaS",
+    "expansion": "Software as a Service",
+    "description": "Software delivered over the internet as a subscription.",
+    "example": "Track SaaS (Software as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "FaaS",
+    "expansion": "Function as a Service",
+    "description": "Serverless functions triggered by events.",
+    "example": "Track FaaS (Function as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "BaaS",
+    "expansion": "Backend as a Service",
+    "description": "Managed backend features like auth and data APIs.",
+    "example": "Track BaaS (Backend as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "CaaS",
+    "expansion": "Container as a Service",
+    "description": "Managed container orchestration environment.",
+    "example": "Track CaaS (Container as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "DBaaS",
+    "expansion": "Database as a Service",
+    "description": "Managed database provisioning and operations.",
+    "example": "Track DBaaS (Database as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "K8s",
+    "expansion": "Kubernetes",
+    "description": "Open‑source container orchestration system.",
+    "example": "Reference K8s (Kubernetes) in the architecture diagram."
+  },
+  {
+    "acronym": "EKS",
+    "expansion": "Elastic Kubernetes Service",
+    "description": "AWS managed Kubernetes control plane.",
+    "example": "Track EKS (Elastic Kubernetes Service) in the operations dashboard."
+  },
+  {
+    "acronym": "GKE",
+    "expansion": "Google Kubernetes Engine",
+    "description": "GCP managed Kubernetes service.",
+    "example": "Track GKE (Google Kubernetes Engine) in the operations dashboard."
+  },
+  {
+    "acronym": "AKS",
+    "expansion": "Azure Kubernetes Service",
+    "description": "Azure managed Kubernetes service.",
+    "example": "Track AKS (Azure Kubernetes Service) in the operations dashboard."
+  },
+  {
+    "acronym": "EC2",
+    "expansion": "Elastic Compute Cloud",
+    "description": "AWS virtual compute instances.",
+    "example": "Reference EC2 (Elastic Compute Cloud) in the architecture diagram."
+  },
+  {
+    "acronym": "S3",
+    "expansion": "Simple Storage Service",
+    "description": "AWS object storage service.",
+    "example": "Track S3 (Simple Storage Service) in the operations dashboard."
+  },
+  {
+    "acronym": "RDS",
+    "expansion": "Relational Database Service",
+    "description": "AWS managed relational databases.",
+    "example": "Track RDS (Relational Database Service) in the operations dashboard."
+  },
+  {
+    "acronym": "VPC",
+    "expansion": "Virtual Private Cloud",
+    "description": "Logically isolated virtual network in the cloud.",
+    "example": "Reference VPC (Virtual Private Cloud) in the architecture diagram."
+  },
+  {
+    "acronym": "NAT",
+    "expansion": "Network Address Translation",
+    "description": "Remaps IP addresses between networks.",
+    "example": "Mention NAT (Network Address Translation) during the weekly planning session."
+  },
+  {
+    "acronym": "ELB",
+    "expansion": "Elastic Load Balancing",
+    "description": "AWS load‑balancing service.",
+    "example": "Track ELB (Elastic Load Balancing) in the operations dashboard."
+  },
+  {
+    "acronym": "ALB",
+    "expansion": "Application Load Balancer",
+    "description": "L7 load balancer in AWS.",
+    "example": "Reference ALB (Application Load Balancer) in the architecture diagram."
+  },
+  {
+    "acronym": "NLB",
+    "expansion": "Network Load Balancer",
+    "description": "L4 high‑performance load balancer in AWS.",
+    "example": "Mention NLB (Network Load Balancer) during the weekly planning session."
+  },
+  {
+    "acronym": "IAM",
+    "expansion": "Identity and Access Management",
+    "description": "Control user/service permissions.",
+    "example": "Include IAM (Identity and Access Management) in the executive briefing."
+  },
+  {
+    "acronym": "STS",
+    "expansion": "Security Token Service",
+    "description": "Issues temporary security credentials.",
+    "example": "Track STS (Security Token Service) in the operations dashboard."
+  },
+  {
+    "acronym": "KMS",
+    "expansion": "Key Management Service",
+    "description": "Managed encryption key storage and usage.",
+    "example": "Include KMS (Key Management Service) in the executive briefing."
+  },
+  {
+    "acronym": "EFS",
+    "expansion": "Elastic File System",
+    "description": "AWS managed NFS file storage.",
+    "example": "Reference EFS (Elastic File System) in the architecture diagram."
+  },
+  {
+    "acronym": "EBS",
+    "expansion": "Elastic Block Store",
+    "description": "AWS block storage volumes for EC2.",
+    "example": "Mention EBS (Elastic Block Store) during the weekly planning session."
+  },
+  {
+    "acronym": "CDN",
+    "expansion": "Content Delivery Network",
+    "description": "Globally distributed cache for faster content delivery.",
+    "example": "Track CDN (Content Delivery Network) in the operations dashboard."
+  },
+  {
+    "acronym": "DNS",
+    "expansion": "Domain Name System",
+    "description": "Translates domain names to IP addresses.",
+    "example": "Reference DNS (Domain Name System) in the architecture diagram."
+  },
+  {
+    "acronym": "DHCP",
+    "expansion": "Dynamic Host Configuration Protocol",
+    "description": "Automatically assigns IP addresses.",
+    "example": "Mention DHCP (Dynamic Host Configuration Protocol) during the weekly planning session."
+  },
+  {
+    "acronym": "TCP",
+    "expansion": "Transmission Control Protocol",
+    "description": "Reliable transport protocol over IP.",
+    "example": "Mention TCP (Transmission Control Protocol) during the weekly planning session."
+  },
+  {
+    "acronym": "UDP",
+    "expansion": "User Datagram Protocol",
+    "description": "Lightweight, connectionless transport protocol.",
+    "example": "Mention UDP (User Datagram Protocol) during the weekly planning session."
+  },
+  {
+    "acronym": "HTTP",
+    "expansion": "Hypertext Transfer Protocol",
+    "description": "Application protocol for the web.",
+    "example": "Reference HTTP (Hypertext Transfer Protocol) in the architecture diagram."
+  },
+  {
+    "acronym": "HTTPS",
+    "expansion": "HTTP Secure",
+    "description": "HTTP over TLS for encrypted communication.",
+    "example": "Mention HTTPS (HTTP Secure) during the weekly planning session."
+  },
+  {
+    "acronym": "TLS",
+    "expansion": "Transport Layer Security",
+    "description": "Cryptographic protocol for secure connections.",
+    "example": "Assess TLS (Transport Layer Security) in the security audit checklist."
+  },
+  {
+    "acronym": "SSL",
+    "expansion": "Secure Sockets Layer",
+    "description": "Legacy predecessor to TLS.",
+    "example": "Mention SSL (Secure Sockets Layer) during the weekly planning session."
+  },
+  {
+    "acronym": "SSH",
+    "expansion": "Secure Shell",
+    "description": "Protocol for secure remote login/command execution.",
+    "example": "Mention SSH (Secure Shell) during the weekly planning session."
+  },
+  {
+    "acronym": "NTP",
+    "expansion": "Network Time Protocol",
+    "description": "Synchronizes clocks over packet networks.",
+    "example": "Mention NTP (Network Time Protocol) during the weekly planning session."
+  },
+  {
+    "acronym": "SSO",
+    "expansion": "Single Sign‑On",
+    "description": "Authenticate once to access multiple applications.",
+    "example": "Mention SSO (Single Sign‑On) during the weekly planning session."
+  },
+  {
+    "acronym": "MFA",
+    "expansion": "Multi‑Factor Authentication",
+    "description": "Two or more auth factors to verify identity.",
+    "example": "Assess MFA (Multi‑Factor Authentication) in the security audit checklist."
+  },
+  {
+    "acronym": "2FA",
+    "expansion": "Two‑Factor Authentication",
+    "description": "Combination of two authentication factors.",
+    "example": "Mention 2FA (Two‑Factor Authentication) during the weekly planning session."
+  },
+  {
+    "acronym": "RBAC",
+    "expansion": "Role‑Based Access Control",
+    "description": "Permissions grouped by roles.",
+    "example": "Mention RBAC (Role‑Based Access Control) during the weekly planning session."
+  },
+  {
+    "acronym": "ABAC",
+    "expansion": "Attribute‑Based Access Control",
+    "description": "Policies based on attributes and context.",
+    "example": "Mention ABAC (Attribute‑Based Access Control) during the weekly planning session."
+  },
+  {
+    "acronym": "PBAC",
+    "expansion": "Policy‑Based Access Control",
+    "description": "Centralized policies controlling access decisions.",
+    "example": "Capture PBAC (Policy‑Based Access Control) in the contract guidelines."
+  },
+  {
+    "acronym": "DLP",
+    "expansion": "Data Loss Prevention",
+    "description": "Detect and prevent sensitive data exfiltration.",
+    "example": "Add DLP (Data Loss Prevention) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "SIEM",
+    "expansion": "Security Information and Event Management",
+    "description": "Collects and correlates security logs.",
+    "example": "Include SIEM (Security Information and Event Management) in the executive briefing."
+  },
+  {
+    "acronym": "SOAR",
+    "expansion": "Security Orchestration, Automation and Response",
+    "description": "Automate security workflows.",
+    "example": "Assess SOAR (Security Orchestration, Automation and Response) in the security audit checklist."
+  },
+  {
+    "acronym": "IDS",
+    "expansion": "Intrusion Detection System",
+    "description": "Detects potential intrusions or attacks.",
+    "example": "Reference IDS (Intrusion Detection System) in the architecture diagram."
+  },
+  {
+    "acronym": "IPS",
+    "expansion": "Intrusion Prevention System",
+    "description": "Detects and blocks malicious activity.",
+    "example": "Reference IPS (Intrusion Prevention System) in the architecture diagram."
+  },
+  {
+    "acronym": "EDR",
+    "expansion": "Endpoint Detection and Response",
+    "description": "Endpoint telemetry and response tooling.",
+    "example": "Mention EDR (Endpoint Detection and Response) during the weekly planning session."
+  },
+  {
+    "acronym": "XDR",
+    "expansion": "Extended Detection and Response",
+    "description": "Cross‑domain detection and response.",
+    "example": "Mention XDR (Extended Detection and Response) during the weekly planning session."
+  },
+  {
+    "acronym": "CASB",
+    "expansion": "Cloud Access Security Broker",
+    "description": "Security controls between users and cloud services.",
+    "example": "Reference CASB (Cloud Access Security Broker) in the architecture diagram."
+  },
+  {
+    "acronym": "DDoS",
+    "expansion": "Distributed Denial of Service",
+    "description": "Attack overwhelming a service with traffic.",
+    "example": "Track DDoS (Distributed Denial of Service) in the operations dashboard."
+  },
+  {
+    "acronym": "WAF",
+    "expansion": "Web Application Firewall",
+    "description": "Filters/monitors HTTP traffic to protect apps.",
+    "example": "Reference WAF (Web Application Firewall) in the architecture diagram."
+  },
+  {
+    "acronym": "PKI",
+    "expansion": "Public Key Infrastructure",
+    "description": "System for issuing and managing digital certificates.",
+    "example": "Reference PKI (Public Key Infrastructure) in the architecture diagram."
+  },
+  {
+    "acronym": "PII",
+    "expansion": "Personally Identifiable Information",
+    "description": "Data that identifies an individual.",
+    "example": "Add PII (Personally Identifiable Information) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "PHI",
+    "expansion": "Protected Health Information",
+    "description": "Health data protected under HIPAA.",
+    "example": "Add PHI (Protected Health Information) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "HIPAA",
+    "expansion": "Health Insurance Portability and Accountability Act",
+    "description": "U.S. health privacy law.",
+    "example": "Assess HIPAA (Health Insurance Portability and Accountability Act) in the security audit checklist."
+  },
+  {
+    "acronym": "GDPR",
+    "expansion": "General Data Protection Regulation",
+    "description": "EU data protection regulation.",
+    "example": "Add GDPR (General Data Protection Regulation) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "CCPA",
+    "expansion": "California Consumer Privacy Act",
+    "description": "California privacy law for consumers.",
+    "example": "Assess CCPA (California Consumer Privacy Act) in the security audit checklist."
+  },
+  {
+    "acronym": "SOC 2",
+    "expansion": "Service Organization Control 2",
+    "description": "Audit standard for security and availability.",
+    "example": "Reconcile SOC 2 (Service Organization Control 2) in the close checklist."
+  },
+  {
+    "acronym": "ISO 27001",
+    "expansion": "Information Security Management standard for establishing ISMS controls",
+    "description": "Information Security Management standard for establishing ISMS controls.",
+    "example": "Include ISO 27001 (Information Security Management standard for establishing ISMS controls) in the executive briefing."
+  },
+  {
+    "acronym": "PCI DSS",
+    "expansion": "Payment Card Industry Data Security Standard",
+    "description": "Controls for cardholder data.",
+    "example": "Add PCI DSS (Payment Card Industry Data Security Standard) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "SOX",
+    "expansion": "Sarbanes‑Oxley Act",
+    "description": "U.S. law for financial reporting controls.",
+    "example": "Review SOX (Sarbanes‑Oxley Act) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "NIST",
+    "expansion": "National Institute of Standards and Technology",
+    "description": "Cybersecurity frameworks/guidelines.",
+    "example": "Reference NIST (National Institute of Standards and Technology) in the architecture diagram."
+  },
+  {
+    "acronym": "BI",
+    "expansion": "Business Intelligence",
+    "description": "Reporting, dashboards, and descriptive analytics.",
+    "example": "Add BI (Business Intelligence) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "DWH",
+    "expansion": "Data Warehouse",
+    "description": "Centralized store optimized for analytics.",
+    "example": "Add DWH (Data Warehouse) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "DL",
+    "expansion": "Data Lake",
+    "description": "Large store of raw, unstructured/structured data at scale.",
+    "example": "Add DL (Data Lake) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MDM",
+    "expansion": "Master Data Management",
+    "description": "Processes for consistent, authoritative data.",
+    "example": "Include MDM (Master Data Management) in the executive briefing."
+  },
+  {
+    "acronym": "GD",
+    "expansion": "Governed Data",
+    "description": "Curated data assets with clear ownership and quality.",
+    "example": "Add GD (Governed Data) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "EDA",
+    "expansion": "Exploratory Data Analysis",
+    "description": "Initial data investigation to find patterns.",
+    "example": "Add EDA (Exploratory Data Analysis) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "ML",
+    "expansion": "Machine Learning",
+    "description": "Algorithms that learn patterns from data.",
+    "example": "Add ML (Machine Learning) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "DL (ML)",
+    "expansion": "Deep Learning",
+    "description": "Multi‑layer neural networks for complex patterns.",
+    "example": "Mention DL (ML) (Deep Learning) during the weekly planning session."
+  },
+  {
+    "acronym": "NLP",
+    "expansion": "Natural Language Processing",
+    "description": "Techniques to process human language.",
+    "example": "Track NLP (Natural Language Processing) in the operations dashboard."
+  },
+  {
+    "acronym": "CV",
+    "expansion": "Computer Vision",
+    "description": "Algorithms to interpret visual information.",
+    "example": "Frame CV (Computer Vision) in the annual strategy memo."
+  },
+  {
+    "acronym": "RAG",
+    "expansion": "Retrieval‑Augmented Generation",
+    "description": "LLMs with retrieval for grounded outputs.",
+    "example": "Mention RAG (Retrieval‑Augmented Generation) during the weekly planning session."
+  },
+  {
+    "acronym": "LLM",
+    "expansion": "Large Language Model",
+    "description": "AI model trained on vast text for language tasks.",
+    "example": "Add LLM (Large Language Model) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "RLHF",
+    "expansion": "Reinforcement Learning from Human Feedback",
+    "description": "Align models using human preferences.",
+    "example": "Discuss RLHF (Reinforcement Learning from Human Feedback) during the customer success sync."
+  },
+  {
+    "acronym": "LoRA",
+    "expansion": "Low‑Rank Adaptation",
+    "description": "Parameter‑efficient fine‑tuning of large models.",
+    "example": "Mention LoRA (Low‑Rank Adaptation) during the weekly planning session."
+  },
+  {
+    "acronym": "PEFT",
+    "expansion": "Parameter‑Efficient Fine‑Tuning",
+    "description": "Methods to adapt large models with few params.",
+    "example": "Mention PEFT (Parameter‑Efficient Fine‑Tuning) during the weekly planning session."
+  },
+  {
+    "acronym": "FP16",
+    "expansion": "16‑bit floating point",
+    "description": "Reduced precision format for faster training/inference.",
+    "example": "Mention FP16 (16‑bit floating point) during the weekly planning session."
+  },
+  {
+    "acronym": "BF16",
+    "expansion": "Brain Floating Point 16",
+    "description": "16‑bit format with wider exponent for stability.",
+    "example": "Mention BF16 (Brain Floating Point 16) during the weekly planning session."
+  },
+  {
+    "acronym": "QPS",
+    "expansion": "Queries Per Second",
+    "description": "Throughput metric for serving systems.",
+    "example": "Add QPS (Queries Per Second) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "TPOT",
+    "expansion": "Throughput, Performance, Optimization, Tuning",
+    "description": "Shorthand for perf work (informal).",
+    "example": "Mention TPOT (Throughput, Performance, Optimization, Tuning) during the weekly planning session."
+  },
+  {
+    "acronym": "AUC",
+    "expansion": "Area Under the Curve",
+    "description": "Metric for classifier performance (ROC).",
+    "example": "Add AUC (Area Under the Curve) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "ROC",
+    "expansion": "Receiver Operating Characteristic",
+    "description": "Curve of TPR vs FPR across thresholds.",
+    "example": "Track ROC (Receiver Operating Characteristic) in the operations dashboard."
+  },
+  {
+    "acronym": "MAPE",
+    "expansion": "Mean Absolute Percentage Error",
+    "description": "Forecasting accuracy metric.",
+    "example": "Add MAPE (Mean Absolute Percentage Error) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MAE",
+    "expansion": "Mean Absolute Error",
+    "description": "Average absolute forecast error.",
+    "example": "Review MAE (Mean Absolute Error) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "MSE",
+    "expansion": "Mean Squared Error",
+    "description": "Average squared prediction error.",
+    "example": "Mention MSE (Mean Squared Error) during the weekly planning session."
+  },
+  {
+    "acronym": "RMSE",
+    "expansion": "Root Mean Squared Error",
+    "description": "Square root of MSE.",
+    "example": "Mention RMSE (Root Mean Squared Error) during the weekly planning session."
+  },
+  {
+    "acronym": "R²",
+    "expansion": "Coefficient of Determination",
+    "description": "Proportion of variance explained by a model.",
+    "example": "Add R² (Coefficient of Determination) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "ABACUS",
+    "expansion": "Always Be Calculating User Signals",
+    "description": "Playful mnemonic for user‑signal analytics.",
+    "example": "Add ABACUS (Always Be Calculating User Signals) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "SPA",
+    "expansion": "Single‑Page Application",
+    "description": "App that updates the page dynamically without reloads.",
+    "example": "Reference SPA (Single‑Page Application) in the architecture diagram."
+  },
+  {
+    "acronym": "MPA",
+    "expansion": "Multi‑Page Application",
+    "description": "Traditional web app with server‑rendered pages.",
+    "example": "Reference MPA (Multi‑Page Application) in the architecture diagram."
+  },
+  {
+    "acronym": "SSR",
+    "expansion": "Server‑Side Rendering",
+    "description": "Render HTML on the server before sending to client.",
+    "example": "Discuss SSR (Server‑Side Rendering) during the customer success sync."
+  },
+  {
+    "acronym": "SSG",
+    "expansion": "Static Site Generation",
+    "description": "Pre‑render pages at build time for speed.",
+    "example": "Mention SSG (Static Site Generation) during the weekly planning session."
+  },
+  {
+    "acronym": "ISR",
+    "expansion": "Incremental Static Regeneration",
+    "description": "Hybrid static regeneration on demand.",
+    "example": "Highlight ISR (Incremental Static Regeneration) in the campaign brief."
+  },
+  {
+    "acronym": "CSR",
+    "expansion": "Client‑Side Rendering",
+    "description": "Render content in the browser via JavaScript.",
+    "example": "Highlight CSR (Client‑Side Rendering) in the campaign brief."
+  },
+  {
+    "acronym": "DOM",
+    "expansion": "Document Object Model",
+    "description": "Structured representation of a web page.",
+    "example": "Add DOM (Document Object Model) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "CDN (web)",
+    "expansion": "Content Delivery Network",
+    "description": "Distributed cache for web assets.",
+    "example": "Track CDN (web) (Content Delivery Network) in the operations dashboard."
+  },
+  {
+    "acronym": "PWA",
+    "expansion": "Progressive Web App",
+    "description": "Web app with offline, installable capabilities.",
+    "example": "Mention PWA (Progressive Web App) during the weekly planning session."
+  },
+  {
+    "acronym": "WASM",
+    "expansion": "WebAssembly",
+    "description": "Binary instruction format for high‑performance web apps.",
+    "example": "Mention WASM (WebAssembly) during the weekly planning session."
+  },
+  {
+    "acronym": "SVG",
+    "expansion": "Scalable Vector Graphics",
+    "description": "XML‑based vector image format.",
+    "example": "Mention SVG (Scalable Vector Graphics) during the weekly planning session."
+  },
+  {
+    "acronym": "CSS",
+    "expansion": "Cascading Style Sheets",
+    "description": "Styling language for web documents.",
+    "example": "Mention CSS (Cascading Style Sheets) during the weekly planning session."
+  },
+  {
+    "acronym": "HTML",
+    "expansion": "HyperText Markup Language",
+    "description": "Standard markup for web pages.",
+    "example": "Mention HTML (HyperText Markup Language) during the weekly planning session."
+  },
+  {
+    "acronym": "JS",
+    "expansion": "JavaScript",
+    "description": "Scripting language of the web.",
+    "example": "Mention JS (JavaScript) during the weekly planning session."
+  },
+  {
+    "acronym": "TS",
+    "expansion": "TypeScript",
+    "description": "Typed superset of JavaScript compiled to JS.",
+    "example": "Mention TS (TypeScript) during the weekly planning session."
+  },
+  {
+    "acronym": "XHR",
+    "expansion": "XMLHttpRequest",
+    "description": "API for HTTP requests from browsers (legacy vs fetch).",
+    "example": "Reference XHR (XMLHttpRequest) in the architecture diagram."
+  },
+  {
+    "acronym": "CSP",
+    "expansion": "Content Security Policy",
+    "description": "HTTP header controlling allowed resource loads.",
+    "example": "Highlight CSP (Content Security Policy) in the campaign brief."
+  },
+  {
+    "acronym": "HSTS",
+    "expansion": "HTTP Strict Transport Security",
+    "description": "Forces HTTPS for the domain.",
+    "example": "Assess HSTS (HTTP Strict Transport Security) in the security audit checklist."
+  },
+  {
+    "acronym": "SRI",
+    "expansion": "Subresource Integrity",
+    "description": "Verifies fetched resources weren’t tampered with.",
+    "example": "Mention SRI (Subresource Integrity) during the weekly planning session."
+  },
+  {
+    "acronym": "JWT",
+    "expansion": "JSON Web Token",
+    "description": "Compact token for stateless authentication.",
+    "example": "Mention JWT (JSON Web Token) during the weekly planning session."
+  },
+  {
+    "acronym": "OIDC",
+    "expansion": "OpenID Connect",
+    "description": "Identity layer on top of OAuth 2.0 for login.",
+    "example": "Assess OIDC (OpenID Connect) in the security audit checklist."
+  },
+  {
+    "acronym": "OAuth",
+    "expansion": "Open Authorization",
+    "description": "Delegated access protocol without sharing credentials.",
+    "example": "Mention OAuth (Open Authorization) during the weekly planning session."
+  },
+  {
+    "acronym": "SAML",
+    "expansion": "Security Assertion Markup Language",
+    "description": "XML‑based SSO standard.",
+    "example": "Assess SAML (Security Assertion Markup Language) in the security audit checklist."
+  },
+  {
+    "acronym": "AMP",
+    "expansion": "Accelerated Mobile Pages",
+    "description": "Performance‑optimized web content format.",
+    "example": "Highlight AMP (Accelerated Mobile Pages) in the campaign brief."
+  },
+  {
+    "acronym": "APK",
+    "expansion": "Android Package",
+    "description": "Application distribution file for Android.",
+    "example": "Reference APK (Android Package) in the architecture diagram."
+  },
+  {
+    "acronym": "AAB",
+    "expansion": "Android App Bundle",
+    "description": "Publishing format for modular Android apps.",
+    "example": "Mention AAB (Android App Bundle) during the weekly planning session."
+  },
+  {
+    "acronym": "IPA",
+    "expansion": "iOS App Archive",
+    "description": "IOS application package format.",
+    "example": "Reference IPA (iOS App Archive) in the architecture diagram."
+  },
+  {
+    "acronym": "OS",
+    "expansion": "Operating System",
+    "description": "Software managing hardware and providing services.",
+    "example": "Track OS (Operating System) in the operations dashboard."
+  },
+  {
+    "acronym": "POSIX",
+    "expansion": "Portable Operating System Interface",
+    "description": "UNIX‑compatibility standards.",
+    "example": "Track POSIX (Portable Operating System Interface) in the operations dashboard."
+  },
+  {
+    "acronym": "VM",
+    "expansion": "Virtual Machine",
+    "description": "Emulates a computer system for isolation and portability.",
+    "example": "Reference VM (Virtual Machine) in the architecture diagram."
+  },
+  {
+    "acronym": "VMM",
+    "expansion": "Virtual Machine Monitor",
+    "description": "Hypervisor controlling VMs.",
+    "example": "Mention VMM (Virtual Machine Monitor) during the weekly planning session."
+  },
+  {
+    "acronym": "X86",
+    "expansion": "32/64‑bit Intel/AMD CPU architecture family",
+    "description": "32/64‑bit Intel/AMD CPU architecture family.",
+    "example": "Reference X86 (32/64‑bit Intel/AMD CPU architecture family) in the architecture diagram."
+  },
+  {
+    "acronym": "ARM",
+    "expansion": "Advanced RISC Machines",
+    "description": "RISC CPU architecture widely used in mobile/cloud.",
+    "example": "Reference ARM (Advanced RISC Machines) in the architecture diagram."
+  },
+  {
+    "acronym": "GPU",
+    "expansion": "Graphics Processing Unit",
+    "description": "Massively parallel processor for graphics/compute.",
+    "example": "Mention GPU (Graphics Processing Unit) during the weekly planning session."
+  },
+  {
+    "acronym": "TPU",
+    "expansion": "Tensor Processing Unit",
+    "description": "Specialized ASIC for ML workloads.",
+    "example": "Mention TPU (Tensor Processing Unit) during the weekly planning session."
+  },
+  {
+    "acronym": "IOPS",
+    "expansion": "Input/Output Operations Per Second",
+    "description": "Storage performance metric.",
+    "example": "Track IOPS (Input/Output Operations Per Second) in the operations dashboard."
+  },
+  {
+    "acronym": "RAID",
+    "expansion": "Redundant Array of Independent Disks",
+    "description": "Data redundancy/performance scheme.",
+    "example": "Add RAID (Redundant Array of Independent Disks) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "SAN",
+    "expansion": "Storage Area Network",
+    "description": "High‑speed network providing block‑level storage.",
+    "example": "Mention SAN (Storage Area Network) during the weekly planning session."
+  },
+  {
+    "acronym": "NAS",
+    "expansion": "Network‑Attached Storage",
+    "description": "File‑level storage shared over a network.",
+    "example": "Mention NAS (Network‑Attached Storage) during the weekly planning session."
+  },
+  {
+    "acronym": "IP",
+    "expansion": "Internet Protocol",
+    "description": "Addressing and routing across networks.",
+    "example": "Mention IP (Internet Protocol) during the weekly planning session."
+  },
+  {
+    "acronym": "IPv4",
+    "expansion": "Internet Protocol version 4",
+    "description": "32‑bit address space.",
+    "example": "Mention IPv4 (Internet Protocol version 4) during the weekly planning session."
+  },
+  {
+    "acronym": "IPv6",
+    "expansion": "Internet Protocol version 6",
+    "description": "128‑bit address space replacing IPv4.",
+    "example": "Mention IPv6 (Internet Protocol version 6) during the weekly planning session."
+  },
+  {
+    "acronym": "BGP",
+    "expansion": "Border Gateway Protocol",
+    "description": "Routing protocol between autonomous systems.",
+    "example": "Mention BGP (Border Gateway Protocol) during the weekly planning session."
+  },
+  {
+    "acronym": "OSPF",
+    "expansion": "Open Shortest Path First",
+    "description": "Interior gateway routing protocol.",
+    "example": "Mention OSPF (Open Shortest Path First) during the weekly planning session."
+  },
+  {
+    "acronym": "VPN",
+    "expansion": "Virtual Private Network",
+    "description": "Encrypted tunnel over the internet.",
+    "example": "Mention VPN (Virtual Private Network) during the weekly planning session."
+  },
+  {
+    "acronym": "VLAN",
+    "expansion": "Virtual LAN",
+    "description": "Logical segmentation of a physical network.",
+    "example": "Mention VLAN (Virtual LAN) during the weekly planning session."
+  },
+  {
+    "acronym": "QoS",
+    "expansion": "Quality of Service",
+    "description": "Prioritization and bandwidth management for traffic.",
+    "example": "Include QoS (Quality of Service) in the executive briefing."
+  },
+  {
+    "acronym": "SLAAC",
+    "expansion": "Stateless Address Autoconfiguration",
+    "description": "IPv6 automatic address configuration.",
+    "example": "Mention SLAAC (Stateless Address Autoconfiguration) during the weekly planning session."
+  },
+  {
+    "acronym": "IM",
+    "expansion": "Instant Messaging",
+    "description": "Real‑time text communication.",
+    "example": "Mention IM (Instant Messaging) during the weekly planning session."
+  },
+  {
+    "acronym": "UCaaS",
+    "expansion": "Unified Communications as a Service",
+    "description": "Cloud platform for calls/chat/meetings.",
+    "example": "Track UCaaS (Unified Communications as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "CCaaS",
+    "expansion": "Contact Center as a Service",
+    "description": "Cloud call center platform.",
+    "example": "Track CCaaS (Contact Center as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "CPaaS",
+    "expansion": "Communications Platform as a Service",
+    "description": "APIs for messaging and voice.",
+    "example": "Track CPaaS (Communications Platform as a Service) in the operations dashboard."
+  },
+  {
+    "acronym": "VoIP",
+    "expansion": "Voice over IP",
+    "description": "Voice calling over internet protocol networks.",
+    "example": "Mention VoIP (Voice over IP) during the weekly planning session."
+  },
+  {
+    "acronym": "SIP",
+    "expansion": "Session Initiation Protocol",
+    "description": "Signaling for multimedia sessions/VoIP.",
+    "example": "Mention SIP (Session Initiation Protocol) during the weekly planning session."
+  },
+  {
+    "acronym": "WebRTC",
+    "expansion": "Web Real‑Time Communication",
+    "description": "Browser APIs for voice/video/data P2P.",
+    "example": "Add WebRTC (Web Real‑Time Communication) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "ERP",
+    "expansion": "Enterprise Resource Planning",
+    "description": "Integrated system for core business processes.",
+    "example": "Reference ERP (Enterprise Resource Planning) in the architecture diagram."
+  },
+  {
+    "acronym": "CRM",
+    "expansion": "Customer Relationship Management",
+    "description": "System to manage customer interactions.",
+    "example": "Include CRM (Customer Relationship Management) in the executive briefing."
+  },
+  {
+    "acronym": "PLM",
+    "expansion": "Product Lifecycle Management",
+    "description": "Manage product data from design to disposal.",
+    "example": "Include PLM (Product Lifecycle Management) in the executive briefing."
+  },
+  {
+    "acronym": "WMS",
+    "expansion": "Warehouse Management System",
+    "description": "Manage warehouse operations and inventory.",
+    "example": "Include WMS (Warehouse Management System) in the executive briefing."
+  },
+  {
+    "acronym": "TMS",
+    "expansion": "Transportation Management System",
+    "description": "Plan, execute, and optimize shipments.",
+    "example": "Include TMS (Transportation Management System) in the executive briefing."
+  },
+  {
+    "acronym": "MES",
+    "expansion": "Manufacturing Execution System",
+    "description": "Manage and monitor shop floor production.",
+    "example": "Reference MES (Manufacturing Execution System) in the architecture diagram."
+  },
+  {
+    "acronym": "SCM",
+    "expansion": "Supply Chain Management",
+    "description": "Planning and execution across the supply chain.",
+    "example": "Include SCM (Supply Chain Management) in the executive briefing."
+  },
+  {
+    "acronym": "QMS",
+    "expansion": "Quality Management System",
+    "description": "Processes to maintain product/service quality.",
+    "example": "Include QMS (Quality Management System) in the executive briefing."
+  },
+  {
+    "acronym": "EAM",
+    "expansion": "Enterprise Asset Management",
+    "description": "Manage physical assets across their lifecycle.",
+    "example": "Include EAM (Enterprise Asset Management) in the executive briefing."
+  },
+  {
+    "acronym": "BOM (manuf.)",
+    "expansion": "Bill of Materials",
+    "description": "Structured list of parts for manufacturing.",
+    "example": "Mention BOM (manuf.) (Bill of Materials) during the weekly planning session."
+  },
+  {
+    "acronym": "MRP",
+    "expansion": "Material Requirements Planning",
+    "description": "Plan materials based on demand forecasts.",
+    "example": "Highlight MRP (Material Requirements Planning) in the campaign brief."
+  },
+  {
+    "acronym": "JIT",
+    "expansion": "Just‑In‑Time",
+    "description": "Minimize inventory by receiving goods as needed.",
+    "example": "Log JIT (Just‑In‑Time) in the procurement tracker."
+  },
+  {
+    "acronym": "TPM",
+    "expansion": "Total Productive Maintenance",
+    "description": "Maximize equipment effectiveness.",
+    "example": "Track TPM (Total Productive Maintenance) in the operations dashboard."
+  },
+  {
+    "acronym": "NDA",
+    "expansion": "Non‑Disclosure Agreement",
+    "description": "Confidentiality contract between parties.",
+    "example": "Capture NDA (Non‑Disclosure Agreement) in the contract guidelines."
+  },
+  {
+    "acronym": "DPA",
+    "expansion": "Data Processing Addendum",
+    "description": "Contract for processing personal data.",
+    "example": "Add DPA (Data Processing Addendum) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MSA (legal)",
+    "expansion": "Master Services Agreement",
+    "description": "Overarching legal terms for engagements.",
+    "example": "Capture MSA (legal) (Master Services Agreement) in the contract guidelines."
+  },
+  {
+    "acronym": "DPAO",
+    "expansion": "Data Protection Authority",
+    "description": "Regulator overseeing data protection laws.",
+    "example": "Add DPAO (Data Protection Authority) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "EULA",
+    "expansion": "End‑User License Agreement",
+    "description": "Software license terms to end users.",
+    "example": "Reference EULA (End‑User License Agreement) in the architecture diagram."
+  },
+  {
+    "acronym": "TOS",
+    "expansion": "Terms of Service",
+    "description": "Usage terms for a service or website.",
+    "example": "Track TOS (Terms of Service) in the operations dashboard."
+  },
+  {
+    "acronym": "BAA",
+    "expansion": "Business Associate Agreement",
+    "description": "HIPAA‑required contract for PHI handling.",
+    "example": "Capture BAA (Business Associate Agreement) in the contract guidelines."
+  },
+  {
+    "acronym": "SKU",
+    "expansion": "Stock Keeping Unit",
+    "description": "Unique identifier for a sellable item.",
+    "example": "Mention SKU (Stock Keeping Unit) during the weekly planning session."
+  },
+  {
+    "acronym": "BOM (pricing)",
+    "expansion": "Bill of Materials costing",
+    "description": "Component cost basis for pricing.",
+    "example": "Review BOM (pricing) (Bill of Materials costing) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "MSRP",
+    "expansion": "Manufacturer’s Suggested Retail Price",
+    "description": "Recommended retail price.",
+    "example": "Mention MSRP (Manufacturer’s Suggested Retail Price) during the weekly planning session."
+  },
+  {
+    "acronym": "WTP",
+    "expansion": "Willingness To Pay",
+    "description": "Customer’s maximum price threshold.",
+    "example": "Discuss WTP (Willingness To Pay) during the customer success sync."
+  },
+  {
+    "acronym": "COA",
+    "expansion": "Chart of Accounts",
+    "description": "Structured list of financial accounts.",
+    "example": "Review COA (Chart of Accounts) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "APM",
+    "expansion": "Application Performance Monitoring",
+    "description": "Tools to track app performance.",
+    "example": "Reference APM (Application Performance Monitoring) in the architecture diagram."
+  },
+  {
+    "acronym": "RUM",
+    "expansion": "Real User Monitoring",
+    "description": "Measure actual user performance data.",
+    "example": "Add RUM (Real User Monitoring) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "SLI",
+    "expansion": "Service Level Indicator",
+    "description": "Measured value reflecting service performance.",
+    "example": "Track SLI (Service Level Indicator) in the operations dashboard."
+  },
+  {
+    "acronym": "SLO",
+    "expansion": "Service Level Objective",
+    "description": "Target value for an SLI.",
+    "example": "Track SLO (Service Level Objective) in the operations dashboard."
+  },
+  {
+    "acronym": "Logs",
+    "expansion": "Textual event records for troubleshooting and auditing",
+    "description": "Textual event records for troubleshooting and auditing.",
+    "example": "Reconcile Logs (Textual event records for troubleshooting and auditing) in the close checklist."
+  },
+  {
+    "acronym": "QA",
+    "expansion": "Quality Assurance",
+    "description": "Ensuring product quality via processes and testing.",
+    "example": "Prioritize QA (Quality Assurance) during the product roadmap review."
+  },
+  {
+    "acronym": "QE",
+    "expansion": "Quality Engineering",
+    "description": "Engineering‑driven quality practices and tooling.",
+    "example": "Reference QE (Quality Engineering) in the architecture diagram."
+  },
+  {
+    "acronym": "QTP",
+    "expansion": "QuickTest Professional",
+    "description": "Legacy UI test automation tool (UFT).",
+    "example": "Mention QTP (QuickTest Professional) during the weekly planning session."
+  },
+  {
+    "acronym": "SDET",
+    "expansion": "Software Development Engineer in Test",
+    "description": "Hybrid dev/test role.",
+    "example": "Prioritize SDET (Software Development Engineer in Test) during the product roadmap review."
+  },
+  {
+    "acronym": "UAT (test)",
+    "expansion": "User Acceptance Testing",
+    "description": "End‑user sign‑off before go‑live.",
+    "example": "Mention UAT (test) (User Acceptance Testing) during the weekly planning session."
+  },
+  {
+    "acronym": "E2E",
+    "expansion": "End‑to‑End",
+    "description": "Test or flow covering entire system chain.",
+    "example": "Reference E2E (End‑to‑End) in the architecture diagram."
+  },
+  {
+    "acronym": "COBIT",
+    "expansion": "Control Objectives for Information and Related Tech",
+    "description": "IT governance framework.",
+    "example": "Include COBIT (Control Objectives for Information and Related Tech) in the executive briefing."
+  },
+  {
+    "acronym": "ITIL",
+    "expansion": "Information Technology Infrastructure Library",
+    "description": "IT service management practices.",
+    "example": "Include ITIL (Information Technology Infrastructure Library) in the executive briefing."
+  },
+  {
+    "acronym": "TOGAF",
+    "expansion": "The Open Group Architecture Framework",
+    "description": "Enterprise architecture method.",
+    "example": "Reference TOGAF (The Open Group Architecture Framework) in the architecture diagram."
+  },
+  {
+    "acronym": "BPMN",
+    "expansion": "Business Process Model and Notation",
+    "description": "Standard for process diagrams.",
+    "example": "Track BPMN (Business Process Model and Notation) in the operations dashboard."
+  },
+  {
+    "acronym": "UML",
+    "expansion": "Unified Modeling Language",
+    "description": "Standard for software system modeling.",
+    "example": "Reference UML (Unified Modeling Language) in the architecture diagram."
+  },
+  {
+    "acronym": "OMG",
+    "expansion": "Object Management Group",
+    "description": "Consortium for tech standards like UML and BPMN.",
+    "example": "Include OMG (Object Management Group) in the executive briefing."
+  },
+  {
+    "acronym": "IEEE",
+    "expansion": "Institute of Electrical and Electronics Engineers",
+    "description": "Standards body.",
+    "example": "Mention IEEE (Institute of Electrical and Electronics Engineers) during the weekly planning session."
+  },
+  {
+    "acronym": "ACH",
+    "expansion": "Automated Clearing House",
+    "description": "U.S. bank‑to‑bank electronic transfers.",
+    "example": "Mention ACH (Automated Clearing House) during the weekly planning session."
+  },
+  {
+    "acronym": "KYC",
+    "expansion": "Know Your Customer",
+    "description": "Identity verification to prevent fraud.",
+    "example": "Assess KYC (Know Your Customer) in the security audit checklist."
+  },
+  {
+    "acronym": "AML",
+    "expansion": "Anti‑Money Laundering",
+    "description": "Controls to detect illicit financial activity.",
+    "example": "Review AML (Anti‑Money Laundering) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "PSD2",
+    "expansion": "Payment Services Directive 2",
+    "description": "EU regulation enabling open banking.",
+    "example": "Capture PSD2 (Payment Services Directive 2) in the contract guidelines."
+  },
+  {
+    "acronym": "3DS",
+    "expansion": "3‑D Secure",
+    "description": "Additional cardholder verification for online payments.",
+    "example": "Mention 3DS (3‑D Secure) during the weekly planning session."
+  },
+  {
+    "acronym": "BIN",
+    "expansion": "Bank Identification Number",
+    "description": "First digits of a card identifying issuer.",
+    "example": "Mention BIN (Bank Identification Number) during the weekly planning session."
+  },
+  {
+    "acronym": "EMV",
+    "expansion": "Europay, Mastercard, Visa",
+    "description": "Chip card standard for payments.",
+    "example": "Mention EMV (Europay, Mastercard, Visa) during the weekly planning session."
+  },
+  {
+    "acronym": "SOP",
+    "expansion": "Standard Operating Procedure",
+    "description": "Documented routine process steps.",
+    "example": "Track SOP (Standard Operating Procedure) in the operations dashboard."
+  },
+  {
+    "acronym": "RFPQ",
+    "expansion": "RFP Questionnaire",
+    "description": "Detailed questionnaire attached to RFPs.",
+    "example": "Mention RFPQ (RFP Questionnaire) during the weekly planning session."
+  },
+  {
+    "acronym": "BOM (doc)",
+    "expansion": "Basis of Measurement",
+    "description": "Rules for how metrics are calculated.",
+    "example": "Add BOM (doc) (Basis of Measurement) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "BAU",
+    "expansion": "Business As Usual",
+    "description": "Normal operations state outside projects/incidents.",
+    "example": "Track BAU (Business As Usual) in the operations dashboard."
+  },
+  {
+    "acronym": "COE",
+    "expansion": "Center of Excellence",
+    "description": "Team driving best practices and reuse.",
+    "example": "Mention COE (Center of Excellence) during the weekly planning session."
+  },
+  {
+    "acronym": "ROI",
+    "expansion": "Return on Investment",
+    "description": "Gain relative to investment cost.",
+    "example": "Review ROI (Return on Investment) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "TCO",
+    "expansion": "Total Cost of Ownership",
+    "description": "All‑in cost across acquisition and operation.",
+    "example": "Review TCO (Total Cost of Ownership) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "NPS (finance)",
+    "expansion": "Net Promoter Score",
+    "description": "Reused acronym here refers to CX metric; avoid confusion.",
+    "example": "Add NPS (finance) (Net Promoter Score) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "EPS",
+    "expansion": "Earnings Per Share",
+    "description": "Net income divided by shares outstanding.",
+    "example": "Review EPS (Earnings Per Share) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "P/E",
+    "expansion": "Price‑to‑Earnings ratio",
+    "description": "Valuation multiple of share price to EPS.",
+    "example": "Review P/E (Price‑to‑Earnings ratio) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "PEG",
+    "expansion": "Price/Earnings to Growth",
+    "description": "Valuation ratio adjusting for growth.",
+    "example": "Review PEG (Price/Earnings to Growth) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "EV",
+    "expansion": "Enterprise Value",
+    "description": "Market cap plus debt minus cash.",
+    "example": "Review EV (Enterprise Value) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "EV/S",
+    "expansion": "Enterprise Value to Sales",
+    "description": "Valuation multiple of EV over revenue.",
+    "example": "Review EV/S (Enterprise Value to Sales) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "EV/EBITDA",
+    "expansion": "Enterprise Value to EBITDA",
+    "description": "Valuation multiple widely used for comps.",
+    "example": "Review EV/EBITDA (Enterprise Value to EBITDA) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "GA",
+    "expansion": "Generally Available",
+    "description": "Also Accounting: Generally Accepted; disambiguate by context.",
+    "example": "Reconcile GA (Generally Available) in the close checklist."
+  },
+  {
+    "acronym": "LT",
+    "expansion": "Lead Time",
+    "description": "Elapsed time from request to delivery.",
+    "example": "Track LT (Lead Time) in the operations dashboard."
+  },
+  {
+    "acronym": "CT",
+    "expansion": "Cycle Time",
+    "description": "Elapsed time to complete a single work item.",
+    "example": "Mention CT (Cycle Time) during the weekly planning session."
+  },
+  {
+    "acronym": "WIP Limits",
+    "expansion": "Constraints on concurrent work to improve flow",
+    "description": "Constraints on concurrent work to improve flow.",
+    "example": "Mention WIP Limits (Constraints on concurrent work to improve flow) during the weekly planning session."
+  },
+  {
+    "acronym": "AISO",
+    "expansion": "AI Safety Officer",
+    "description": "Role overseeing safe and compliant AI deployment.",
+    "example": "Include AISO (AI Safety Officer) in the executive briefing."
+  },
+  {
+    "acronym": "AIOps",
+    "expansion": "Artificial Intelligence for IT Operations",
+    "description": "ML to automate IT ops tasks.",
+    "example": "Track AIOps (Artificial Intelligence for IT Operations) in the operations dashboard."
+  },
+  {
+    "acronym": "MLOps",
+    "expansion": "Machine Learning Operations",
+    "description": "Practices to deploy and maintain ML models.",
+    "example": "Track MLOps (Machine Learning Operations) in the operations dashboard."
+  },
+  {
+    "acronym": "LLMOps",
+    "expansion": "Operational practices for LLM lifecycle",
+    "description": "Data, evals, deployment, monitoring.",
+    "example": "Track LLMOps (Operational practices for LLM lifecycle) in the operations dashboard."
+  },
+  {
+    "acronym": "RLAIF",
+    "expansion": "Reinforcement Learning from AI Feedback",
+    "description": "Align models with AI‑generated preferences.",
+    "example": "Discuss RLAIF (Reinforcement Learning from AI Feedback) during the customer success sync."
+  },
+  {
+    "acronym": "ITSM",
+    "expansion": "IT Service Management",
+    "description": "Processes for delivering and supporting IT services.",
+    "example": "Include ITSM (IT Service Management) in the executive briefing."
+  },
+  {
+    "acronym": "ESM",
+    "expansion": "Enterprise Service Management",
+    "description": "Applying service management beyond IT.",
+    "example": "Include ESM (Enterprise Service Management) in the executive briefing."
+  },
+  {
+    "acronym": "CMDB",
+    "expansion": "Configuration Management Database",
+    "description": "Repository of configuration items (CIs).",
+    "example": "Include CMDB (Configuration Management Database) in the executive briefing."
+  },
+  {
+    "acronym": "CI (ITSM)",
+    "expansion": "Configuration Item",
+    "description": "Managed asset within the CMDB.",
+    "example": "Mention CI (ITSM) (Configuration Item) during the weekly planning session."
+  },
+  {
+    "acronym": "CAB",
+    "expansion": "Change Advisory Board",
+    "description": "Reviews and approves higher‑risk changes.",
+    "example": "Include CAB (Change Advisory Board) in the executive briefing."
+  },
+  {
+    "acronym": "KB",
+    "expansion": "Knowledge Base",
+    "description": "Repository of articles for self‑service and support.",
+    "example": "Track KB (Knowledge Base) in the operations dashboard."
+  },
+  {
+    "acronym": "SRE (ITSM)",
+    "expansion": "Site Reliability Engineering",
+    "description": "Often integrated with ITSM incident practices.",
+    "example": "Reference SRE (ITSM) (Site Reliability Engineering) in the architecture diagram."
+  },
+  {
+    "acronym": "DataOps",
+    "expansion": "Operational practices for reliable, fast data pipelines and analytics",
+    "description": "Operational practices for reliable, fast data pipelines and analytics.",
+    "example": "Track DataOps (Operational practices for reliable, fast data pipelines and analytics) in the operations dashboard."
+  },
+  {
+    "acronym": "FinOps",
+    "expansion": "Cloud Financial Operations",
+    "description": "Optimize cloud spending and value.",
+    "example": "Review FinOps (Cloud Financial Operations) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "RevOps",
+    "expansion": "Revenue Operations",
+    "description": "Align sales, marketing, CS processes and data.",
+    "example": "Review RevOps (Revenue Operations) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "SecOps",
+    "expansion": "Security Operations",
+    "description": "Continuous monitoring and incident response.",
+    "example": "Track SecOps (Security Operations) in the operations dashboard."
+  },
+  {
+    "acronym": "DevSecOps",
+    "expansion": "Shift‑left security integrated throughout software delivery lifecycle",
+    "description": "Shift‑left security integrated throughout software delivery lifecycle.",
+    "example": "Track DevSecOps (Shift‑left security integrated throughout software delivery lifecycle) in the operations dashboard."
+  },
+  {
+    "acronym": "GRC",
+    "expansion": "Governance, Risk, and Compliance",
+    "description": "Integrated control and risk management.",
+    "example": "Include GRC (Governance, Risk, and Compliance) in the executive briefing."
+  },
+  {
+    "acronym": "TPRM",
+    "expansion": "Third‑Party Risk Management",
+    "description": "Assess and manage vendor risks.",
+    "example": "Include TPRM (Third‑Party Risk Management) in the executive briefing."
+  },
+  {
+    "acronym": "BCP",
+    "expansion": "Business Continuity Plan",
+    "description": "Plan to maintain operations during disruptions.",
+    "example": "Track BCP (Business Continuity Plan) in the operations dashboard."
+  },
+  {
+    "acronym": "BIA",
+    "expansion": "Business Impact Analysis",
+    "description": "Identify critical processes and impact of outages.",
+    "example": "Add BIA (Business Impact Analysis) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "ISO 22301",
+    "expansion": "Business continuity management systems standard",
+    "description": "Business continuity management systems standard.",
+    "example": "Include ISO 22301 (Business continuity management systems standard) in the executive briefing."
+  },
+  {
+    "acronym": "OTel",
+    "expansion": "OpenTelemetry",
+    "description": "Standard for telemetry data (traces, metrics, logs).",
+    "example": "Add OTel (OpenTelemetry) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "Prom",
+    "expansion": "Prometheus",
+    "description": "Open‑source time‑series monitoring database/tooling.",
+    "example": "Mention Prom (Prometheus) during the weekly planning session."
+  },
+  {
+    "acronym": "ELK",
+    "expansion": "Elasticsearch, Logstash, Kibana",
+    "description": "Log analytics stack.",
+    "example": "Add ELK (Elasticsearch, Logstash, Kibana) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "SMT",
+    "expansion": "Span, Metric, Trace",
+    "description": "Core observability data primitives (informal).",
+    "example": "Add SMT (Span, Metric, Trace) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "OCI",
+    "expansion": "Open Container Initiative",
+    "description": "Standards for container images and runtimes.",
+    "example": "Frame OCI (Open Container Initiative) in the annual strategy memo."
+  },
+  {
+    "acronym": "CRI",
+    "expansion": "Container Runtime Interface",
+    "description": "Kubernetes interface for container runtimes.",
+    "example": "Mention CRI (Container Runtime Interface) during the weekly planning session."
+  },
+  {
+    "acronym": "CNI",
+    "expansion": "Container Network Interface",
+    "description": "Spec for container networking plugins.",
+    "example": "Mention CNI (Container Network Interface) during the weekly planning session."
+  },
+  {
+    "acronym": "CSI",
+    "expansion": "Container Storage Interface",
+    "description": "Spec for storage plugins in Kubernetes.",
+    "example": "Mention CSI (Container Storage Interface) during the weekly planning session."
+  },
+  {
+    "acronym": "CDN (media)",
+    "expansion": "Content Delivery Network",
+    "description": "Used to distribute media assets globally.",
+    "example": "Track CDN (media) (Content Delivery Network) in the operations dashboard."
+  },
+  {
+    "acronym": "IoT",
+    "expansion": "Internet of Things",
+    "description": "Network of connected physical devices and sensors.",
+    "example": "Mention IoT (Internet of Things) during the weekly planning session."
+  },
+  {
+    "acronym": "IIoT",
+    "expansion": "Industrial Internet of Things",
+    "description": "IoT for industrial settings and OT.",
+    "example": "Mention IIoT (Industrial Internet of Things) during the weekly planning session."
+  },
+  {
+    "acronym": "OT",
+    "expansion": "Operational Technology",
+    "description": "Hardware/software controlling physical processes.",
+    "example": "Track OT (Operational Technology) in the operations dashboard."
+  },
+  {
+    "acronym": "RTOS",
+    "expansion": "Real‑Time Operating System",
+    "description": "OS with deterministic timing guarantees.",
+    "example": "Track RTOS (Real‑Time Operating System) in the operations dashboard."
+  },
+  {
+    "acronym": "MQTT",
+    "expansion": "Lightweight pub/sub protocol widely used in IoT",
+    "description": "Lightweight pub/sub protocol widely used in IoT.",
+    "example": "Mention MQTT (Lightweight pub/sub protocol widely used in IoT) during the weekly planning session."
+  },
+  {
+    "acronym": "CoAP",
+    "expansion": "Constrained Application Protocol",
+    "description": "Web transfer protocol for constrained devices.",
+    "example": "Reference CoAP (Constrained Application Protocol) in the architecture diagram."
+  },
+  {
+    "acronym": "Sharding",
+    "expansion": "Partitioning data horizontally across multiple database nodes",
+    "description": "Partitioning data horizontally across multiple database nodes.",
+    "example": "Add Sharding (Partitioning data horizontally across multiple database nodes) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "YAML",
+    "expansion": "YAML Ain’t Markup Language",
+    "description": "Human‑readable data serialization format.",
+    "example": "Add YAML (YAML Ain’t Markup Language) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "JSON",
+    "expansion": "JavaScript Object Notation",
+    "description": "Lightweight data interchange format.",
+    "example": "Add JSON (JavaScript Object Notation) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "XML",
+    "expansion": "Extensible Markup Language",
+    "description": "Structured text data format.",
+    "example": "Add XML (Extensible Markup Language) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "CSV",
+    "expansion": "Comma‑Separated Values",
+    "description": "Tabular text data format.",
+    "example": "Add CSV (Comma‑Separated Values) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "P95",
+    "expansion": "95th percentile",
+    "description": "Value below which 95% of observations fall.",
+    "example": "Mention P95 (95th percentile) during the weekly planning session."
+  },
+  {
+    "acronym": "P99",
+    "expansion": "99th percentile",
+    "description": "Value below which 99% of observations fall.",
+    "example": "Mention P99 (99th percentile) during the weekly planning session."
+  },
+  {
+    "acronym": "SaaS (multi‑tenant)",
+    "expansion": "Single app instance serving many customers with isolation at data layer",
+    "description": "Single app instance serving many customers with isolation at data layer.",
+    "example": "Add SaaS (multi‑tenant) (Single app instance serving many customers with isolation at data layer) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "DPIA",
+    "expansion": "Data Protection Impact Assessment",
+    "description": "Required risk analysis under GDPR.",
+    "example": "Add DPIA (Data Protection Impact Assessment) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "ROPA",
+    "expansion": "Records of Processing Activities",
+    "description": "GDPR‑mandated processing inventory.",
+    "example": "Log ROPA (Records of Processing Activities) in the procurement tracker."
+  },
+  {
+    "acronym": "SCCs",
+    "expansion": "Standard Contractual Clauses",
+    "description": "EU model clauses for data transfers.",
+    "example": "Add SCCs (Standard Contractual Clauses) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "EDA",
+    "expansion": "Event‑Driven Architecture",
+    "description": "Systems react to and emit events asynchronously.",
+    "example": "Reference EDA (Event‑Driven Architecture) in the architecture diagram."
+  },
+  {
+    "acronym": "EDA (analytics)",
+    "expansion": "Exploratory Data Analysis",
+    "description": "Context differs; disambiguate by domain.",
+    "example": "Add EDA (analytics) (Exploratory Data Analysis) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "Hex Arch",
+    "expansion": "Hexagonal Architecture",
+    "description": "Ports/adapters pattern for decoupling.",
+    "example": "Reference Hex Arch (Hexagonal Architecture) in the architecture diagram."
+  },
+  {
+    "acronym": "SOA (legacy)",
+    "expansion": "Service‑Oriented Architecture",
+    "description": "Predecessor to microservices.",
+    "example": "Track SOA (legacy) (Service‑Oriented Architecture) in the operations dashboard."
+  },
+  {
+    "acronym": "ITOM",
+    "expansion": "IT Operations Management",
+    "description": "Monitoring, event, and infrastructure management.",
+    "example": "Include ITOM (IT Operations Management) in the executive briefing."
+  },
+  {
+    "acronym": "ITAM",
+    "expansion": "IT Asset Management",
+    "description": "Track hardware/software assets and licenses.",
+    "example": "Include ITAM (IT Asset Management) in the executive briefing."
+  },
+  {
+    "acronym": "AIOps (ops)",
+    "expansion": "AI for IT Ops",
+    "description": "Correlate signals and automate remediation.",
+    "example": "Reference AIOps (ops) (AI for IT Ops) in the architecture diagram."
+  },
+  {
+    "acronym": "CVE",
+    "expansion": "Common Vulnerabilities and Exposures",
+    "description": "Public catalog of security flaws.",
+    "example": "Assess CVE (Common Vulnerabilities and Exposures) in the security audit checklist."
+  },
+  {
+    "acronym": "CVSS",
+    "expansion": "Common Vulnerability Scoring System",
+    "description": "Severity scoring for vulnerabilities.",
+    "example": "Reference CVSS (Common Vulnerability Scoring System) in the architecture diagram."
+  },
+  {
+    "acronym": "FIM",
+    "expansion": "File Integrity Monitoring",
+    "description": "Detect unauthorized file changes.",
+    "example": "Mention FIM (File Integrity Monitoring) during the weekly planning session."
+  },
+  {
+    "acronym": "HSM",
+    "expansion": "Hardware Security Module",
+    "description": "Tamper‑resistant device for key storage.",
+    "example": "Assess HSM (Hardware Security Module) in the security audit checklist."
+  },
+  {
+    "acronym": "WYSIWYG",
+    "expansion": "What You See Is What You Get",
+    "description": "Rich text editing that matches output.",
+    "example": "Mention WYSIWYG (What You See Is What You Get) during the weekly planning session."
+  },
+  {
+    "acronym": "RTE",
+    "expansion": "Rich Text Editor",
+    "description": "Component for creating formatted content.",
+    "example": "Highlight RTE (Rich Text Editor) in the campaign brief."
+  },
+  {
+    "acronym": "CMS",
+    "expansion": "Content Management System",
+    "description": "System to author and publish content.",
+    "example": "Include CMS (Content Management System) in the executive briefing."
+  },
+  {
+    "acronym": "OKRs",
+    "expansion": "Objectives and Key Results",
+    "description": "Plural shorthand for OKR program.",
+    "example": "Add OKRs (Objectives and Key Results) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "BM",
+    "expansion": "Business Model",
+    "description": "Rationale of how a firm creates, delivers, captures value.",
+    "example": "Add BM (Business Model) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "VPC (canvas)",
+    "expansion": "Value Proposition Canvas",
+    "description": "Tool to map customer jobs, pains, gains.",
+    "example": "Discuss VPC (canvas) (Value Proposition Canvas) during the customer success sync."
+  },
+  {
+    "acronym": "CLM",
+    "expansion": "Contract Lifecycle Management",
+    "description": "Manage contracts from creation to renewal.",
+    "example": "Include CLM (Contract Lifecycle Management) in the executive briefing."
+  },
+  {
+    "acronym": "S2P",
+    "expansion": "Source‑to‑Pay",
+    "description": "End‑to‑end procurement process.",
+    "example": "Track S2P (Source‑to‑Pay) in the operations dashboard."
+  },
+  {
+    "acronym": "P2P",
+    "expansion": "Procure‑to‑Pay",
+    "description": "Purchasing through invoice payment process.",
+    "example": "Track P2P (Procure‑to‑Pay) in the operations dashboard."
+  },
+  {
+    "acronym": "O2C",
+    "expansion": "Order‑to‑Cash",
+    "description": "Order intake through payment collection process.",
+    "example": "Review O2C (Order‑to‑Cash) targets in the monthly finance meeting."
+  },
+  {
+    "acronym": "R2R",
+    "expansion": "Record‑to‑Report",
+    "description": "Accounting close and reporting process.",
+    "example": "Reconcile R2R (Record‑to‑Report) in the close checklist."
+  },
+  {
+    "acronym": "H2R",
+    "expansion": "Hire‑to‑Retire",
+    "description": "Employee lifecycle process.",
+    "example": "Track H2R (Hire‑to‑Retire) in the operations dashboard."
+  },
+  {
+    "acronym": "VLM",
+    "expansion": "Vision‑Language Model",
+    "description": "Models jointly reasoning over images and text.",
+    "example": "Add VLM (Vision‑Language Model) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MoE",
+    "expansion": "Mixture of Experts",
+    "description": "Architecture routing tokens to expert sub‑nets.",
+    "example": "Reference MoE (Mixture of Experts) in the architecture diagram."
+  },
+  {
+    "acronym": "SpecDec",
+    "expansion": "Speculative Decoding",
+    "description": "Accelerate generation with draft and verify model.",
+    "example": "Add SpecDec (Speculative Decoding) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "KV Cache",
+    "expansion": "Key‑Value Cache",
+    "description": "Reuse past attention states to speed decoding.",
+    "example": "Mention KV Cache (Key‑Value Cache) during the weekly planning session."
+  },
+  {
+    "acronym": "RNN",
+    "expansion": "Recurrent Neural Network",
+    "description": "Sequence model with recurrent connections.",
+    "example": "Add RNN (Recurrent Neural Network) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "LSTM",
+    "expansion": "Long Short‑Term Memory",
+    "description": "Gated RNN variant handling long dependencies.",
+    "example": "Mention LSTM (Long Short‑Term Memory) during the weekly planning session."
+  },
+  {
+    "acronym": "GRU",
+    "expansion": "Gated Recurrent Unit",
+    "description": "Simplified gated RNN architecture.",
+    "example": "Reference GRU (Gated Recurrent Unit) in the architecture diagram."
+  },
+  {
+    "acronym": "CDP",
+    "expansion": "Customer Data Platform",
+    "description": "Unify and activate customer data across channels.",
+    "example": "Add CDP (Customer Data Platform) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "MDP",
+    "expansion": "Marketing Data Platform",
+    "description": "First‑party data infrastructure for marketing.",
+    "example": "Highlight MDP (Marketing Data Platform) in the campaign brief."
+  },
+  {
+    "acronym": "DSP",
+    "expansion": "Demand‑Side Platform",
+    "description": "Buy digital ad inventory programmatically.",
+    "example": "Highlight DSP (Demand‑Side Platform) in the campaign brief."
+  },
+  {
+    "acronym": "SSP",
+    "expansion": "Supply‑Side Platform",
+    "description": "Sell publisher ad inventory programmatically.",
+    "example": "Reference SSP (Supply‑Side Platform) in the architecture diagram."
+  },
+  {
+    "acronym": "DMP",
+    "expansion": "Data Management Platform",
+    "description": "Cookie‑era audience segmentation and targeting.",
+    "example": "Include DMP (Data Management Platform) in the executive briefing."
+  },
+  {
+    "acronym": "SLA (legal)",
+    "expansion": "Service Level Agreement",
+    "description": "Contractual target; duplicates exist by domain.",
+    "example": "Track SLA (legal) (Service Level Agreement) in the operations dashboard."
+  },
+  {
+    "acronym": "SLO (ops)",
+    "expansion": "Service Level Objective",
+    "description": "Internal target supporting SLAs.",
+    "example": "Track SLO (ops) (Service Level Objective) in the operations dashboard."
+  },
+  {
+    "acronym": "SLI (ops)",
+    "expansion": "Service Level Indicator",
+    "description": "Measurement underpinning SLOs.",
+    "example": "Track SLI (ops) (Service Level Indicator) in the operations dashboard."
+  },
+  {
+    "acronym": "HPA",
+    "expansion": "Horizontal Pod Autoscaler",
+    "description": "Kubernetes autoscaling for pods.",
+    "example": "Mention HPA (Horizontal Pod Autoscaler) during the weekly planning session."
+  },
+  {
+    "acronym": "VPA",
+    "expansion": "Vertical Pod Autoscaler",
+    "description": "Adjusts pod resource requests/limits.",
+    "example": "Mention VPA (Vertical Pod Autoscaler) during the weekly planning session."
+  },
+  {
+    "acronym": "HPAs",
+    "expansion": "Plural shorthand for Horizontal Pod Autoscalers",
+    "description": "Plural shorthand for Horizontal Pod Autoscalers.",
+    "example": "Mention HPAs (Plural shorthand for Horizontal Pod Autoscalers) during the weekly planning session."
+  },
+  {
+    "acronym": "DQ",
+    "expansion": "Data Quality",
+    "description": "Accuracy, completeness, consistency, timeliness of data.",
+    "example": "Add DQ (Data Quality) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "DQI",
+    "expansion": "Data Quality Issue",
+    "description": "Tracked defect in data quality.",
+    "example": "Add DQI (Data Quality Issue) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "DQO",
+    "expansion": "Data Quality Objective",
+    "description": "Target level for data quality dimensions.",
+    "example": "Add DQO (Data Quality Objective) to the analytics dashboard filters."
+  },
+  {
+    "acronym": "DQMS",
+    "expansion": "Data Quality Management System",
+    "description": "Processes/tools governing data quality.",
+    "example": "Include DQMS (Data Quality Management System) in the executive briefing."
+  },
+  {
+    "acronym": "BFF (api)",
+    "expansion": "Backend for Frontend",
+    "description": "API layer designed for specific UI needs.",
+    "example": "Reference BFF (api) (Backend for Frontend) in the architecture diagram."
+  }
+]
